@@ -1,0 +1,273 @@
+#!/usr/bin/env python3
+"""
+malay-transliteration - Command-line tool to transliterate Malay Rumi to Jawi.
+
+Usage:
+    malay-transliteration <word> [word ...]
+    malay-transliteration -s "saya makan nasi"   Sentence mode
+    malay-transliteration -f words.txt           File mode ('-' for stdin)
+    malay-transliteration -i                     Interactive mode
+    malay-transliteration -r <word>              Rule-based only (no dictionary)
+    malay-transliteration --list <rumi-prefix>
+    malay-transliteration --csv <rumi-prefix>
+    cat words.txt | malay-transliteration        Reads stdin when piped
+
+Looks up words in rumi-jawi-unicode.csv. If a word is not found, falls back
+to rule-based transliteration. Use -r/--rules to force rule-based
+transliteration for all words, skipping the dictionary entirely.
+"""
+
+import argparse
+import csv
+import os
+import re
+import sys
+from collections import defaultdict
+from typing import Dict, List, Optional, Tuple
+
+# ---------------------------------------------------------------------------
+# Configuration
+# ---------------------------------------------------------------------------
+
+CSV_PATH = os.path.join(os.path.dirname(os.path.realpath(__file__)),
+                        "rumi-jawi-unicode.csv")
+
+# ---------------------------------------------------------------------------
+# Rule-based transliteration engine (fallback)
+# ---------------------------------------------------------------------------
+# The rule engine lives in rumi_to_jawi.py (same directory) so both tools
+# share a single implementation. Note: importing it also loads its module-
+# level dictionary; the lookup dictionary below is a separate copy that
+# keeps every Jawi variant.
+
+from rumi_to_jawi import transliterate_rules  # noqa: F401
+
+# ---------------------------------------------------------------------------
+# Dictionary loader
+# ---------------------------------------------------------------------------
+
+class JawiDictionary:
+    """In-memory lookup table for Rumi→Jawi, loaded from CSV."""
+
+    def __init__(self, path: str):
+        self._entries: Dict[str, List[str]] = defaultdict(list)
+        self._lower: Dict[str, List[str]] = {}
+        self._load(path)
+
+    def _load(self, path: str) -> None:
+        with open(path, 'r', encoding='utf-8') as fh:
+            for row in csv.reader(fh):
+                if len(row) < 2:
+                    continue
+                rumi = row[0].strip()
+                jawi = row[1].strip()
+                if jawi not in self._entries[rumi]:
+                    self._entries[rumi].append(jawi)
+
+        # Build case-fold index (points to deduplicated lists)
+        for rumi, jawis in self._entries.items():
+            key = rumi.lower()
+            if key in self._lower:
+                existing = self._lower[key]
+                for j in jawis:
+                    if j not in existing:
+                        existing.append(j)
+            else:
+                self._lower[key] = list(jawis)
+
+    def lookup(self, word: str) -> List[str]:
+        """Exact lookup (fast). Returns list of Jawi variants."""
+        return self._entries.get(word, [])
+
+    def lookup_casefold(self, word: str) -> List[str]:
+        """Case-insensitive lookup. Returns list of Jawi variants."""
+        return self._lower.get(word.lower(), [])
+
+    def search(self, prefix: str) -> List[Tuple[str, List[str]]]:
+        """Return all entries whose Rumi starts with prefix."""
+        prefix_lower = prefix.lower()
+        return [(r, js) for r, js in self._entries.items()
+                if r.lower().startswith(prefix_lower)]
+
+    def stats(self) -> str:
+        total_rows = sum(len(v) for v in self._entries.values())
+        return f"{len(self._entries)} unique words, {total_rows} total entries"
+
+
+# ---------------------------------------------------------------------------
+# CLI
+# ---------------------------------------------------------------------------
+
+# Matches runs of letters, allowing internal hyphens/apostrophes so that
+# reduplications (berjalan-jalan) and forms like dato' stay one token.
+WORD_RE = re.compile(r"[^\W\d_]+(?:[-'][^\W\d_]+)*")
+
+
+def transliterate_word(word: str, dictionary: JawiDictionary,
+                       rules_only: bool = False) -> Tuple[str, str, List[str]]:
+    """Return (jawi, source, all_variants) for a single word."""
+    if rules_only:
+        return transliterate_rules(word), "rule-based", [transliterate_rules(word)]
+    jawis = dictionary.lookup(word)
+    source = "dictionary"
+    if not jawis:
+        jawis = dictionary.lookup_casefold(word)
+        source = "dictionary (case-fold)"
+    if not jawis:
+        jawis = [transliterate_rules(word)]
+        source = "rule-based"
+    return jawis[0], source, jawis
+
+
+def transliterate_text(text: str, dictionary: JawiDictionary,
+                       rules_only: bool = False) -> str:
+    """Transliterate every Rumi word in text, preserving spacing/punctuation."""
+    def _replace(match: 're.Match') -> str:
+        jawi, _, _ = transliterate_word(match.group(0), dictionary, rules_only)
+        return jawi
+    return WORD_RE.sub(_replace, text)
+
+
+def print_lookup(word: str, dictionary: JawiDictionary,
+                 rules_only: bool = False) -> None:
+    jawi, source, jawis = transliterate_word(word, dictionary, rules_only)
+    status = "✓" if source.startswith("dictionary") else "~"
+    if len(jawis) == 1:
+        print(f"{status} {word:<20} → {jawi:<25}  ({source})")
+    else:
+        print(f"{status} {word:<20} → {jawi:<25}  ({source}, {len(jawis)} variants)")
+        for j in jawis[1:]:
+            print(f"  {'':20}   {j:<25}")
+
+
+def run_file(path: str, dictionary: JawiDictionary, rules_only: bool = False) -> int:
+    """Transliterate each non-empty line of a file (or stdin if path is '-')."""
+    if path == '-':
+        lines = sys.stdin.read().splitlines()
+    else:
+        try:
+            with open(path, 'r', encoding='utf-8') as fh:
+                lines = fh.read().splitlines()
+        except OSError as exc:
+            print(f"Error: cannot read {path}: {exc}", file=sys.stderr)
+            return 1
+    for line in lines:
+        text = line.strip()
+        if text:
+            print(f"{text} → {transliterate_text(text, dictionary, rules_only)}")
+    return 0
+
+
+def run_interactive(dictionary: JawiDictionary, rules_only: bool = False) -> int:
+    """REPL: each input line is transliterated as a word or sentence."""
+    mode = "rule-based only" if rules_only else dictionary.stats()
+    print(f"Rumi → Jawi interactive mode ({mode})")
+    print("Type a word or sentence; 'q', 'quit' or Ctrl-D to exit.")
+    while True:
+        try:
+            line = input("rumi> ").strip()
+        except (EOFError, KeyboardInterrupt):
+            print()
+            break
+        if not line:
+            continue
+        if line.lower() in ('q', 'quit', 'exit'):
+            break
+        print(transliterate_text(line, dictionary, rules_only))
+    return 0
+
+
+def main() -> int:
+    parser = argparse.ArgumentParser(
+        prog='malay-transliteration',
+        formatter_class=argparse.RawDescriptionHelpFormatter,
+        description="Transliterate Malay Rumi to Jawi using rumi-jawi-unicode.csv.\n"
+                    "Unknown words fall back to rule-based transliteration.",
+        epilog="""examples:
+    malay-transliteration rumah makan tidur
+    malay-transliteration -s "saya makan nasi di rumah"
+    malay-transliteration -r -s "saya makan nasi di rumah"
+    malay-transliteration -f words.txt
+    malay-transliteration -i
+    malay-transliteration --list mengaji
+    malay-transliteration --csv berjalan""")
+    parser.add_argument('words', nargs='*',
+                        help="word(s) to transliterate")
+    parser.add_argument('-i', '--interactive', action='store_true',
+                        help="interactive mode: type words/sentences, 'q' to quit")
+    parser.add_argument('-s', '--sentence', metavar='TEXT',
+                        help="transliterate a whole sentence or text")
+    parser.add_argument('-f', '--file', metavar='PATH',
+                        help="transliterate each line of a file ('-' for stdin)")
+    parser.add_argument('-r', '--rules', action='store_true',
+                        help="rule-based only: skip dictionary lookup entirely")
+    parser.add_argument('--list', metavar='PREFIX',
+                        help="list dictionary entries starting with PREFIX")
+    parser.add_argument('--csv', metavar='PREFIX',
+                        help="like --list but output as CSV")
+    args = parser.parse_args()
+
+    # Locate CSV
+    csv_path = CSV_PATH
+    if not os.path.isfile(csv_path):
+        csv_path = "rumi-jawi-unicode.csv"
+    if not os.path.isfile(csv_path):
+        print(f"Error: rumi-jawi-unicode.csv not found.", file=sys.stderr)
+        print(f"  Searched: {CSV_PATH}", file=sys.stderr)
+        print(f"  Searched: {os.path.abspath('rumi-jawi-unicode.csv')}", file=sys.stderr)
+        return 1
+
+    dictionary = JawiDictionary(csv_path)
+    rules_only = args.rules
+
+    if args.interactive:
+        return run_interactive(dictionary, rules_only)
+
+    if args.sentence is not None:
+        print(transliterate_text(args.sentence, dictionary, rules_only))
+        return 0
+
+    if args.file is not None:
+        return run_file(args.file, dictionary, rules_only)
+
+    if args.list is not None:
+        results = dictionary.search(args.list)
+        if not results:
+            print(f"No entries found for prefix: {args.list}")
+            return 0
+        print(f"Found {len(results)} entries starting with '{args.list}':")
+        for r, js in sorted(results):
+            if len(js) == 1:
+                print(f"  {r:<25} → {js[0]}")
+            else:
+                print(f"  {r:<25} → {js[0]}  (+{len(js)-1} more)")
+        return 0
+
+    if args.csv is not None:
+        results = dictionary.search(args.csv)
+        if not results:
+            print(f"No entries found for prefix: {args.csv}")
+            return 0
+        writer = csv.writer(sys.stdout, lineterminator='\n')
+        for r, js in sorted(results):
+            for j in js:
+                writer.writerow([r, j])
+        return 0
+
+    if args.words:
+        mode = "rule-based only" if rules_only else dictionary.stats()
+        print(f"Rumi → Jawi  ({mode})")
+        print("-" * 60)
+        for word in args.words:
+            print_lookup(word, dictionary, rules_only)
+        return 0
+
+    # No arguments: read piped stdin if present, otherwise show help
+    if not sys.stdin.isatty():
+        return run_file('-', dictionary, rules_only)
+    parser.print_help()
+    return 0
+
+
+if __name__ == '__main__':
+    sys.exit(main())
