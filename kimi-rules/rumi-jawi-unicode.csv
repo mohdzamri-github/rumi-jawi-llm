@@ -3,8 +3,8 @@ aba-aba,اب٢
 aba-daba,اب-داب
 abad,ابد
 berabad-abad,برابد-ابد
-ab‘ad,ابعد
-ab‘ad,ابعاض
+abad,ابعد
+abad,ابعاض
 abadi,ابادي
 diabadikan,داباديکن
 keabadian,کابادين
@@ -408,14 +408,14 @@ keafiatan,کعافيتن
 mengafiatkan,مڠعافيتکن
 afid,افيد
 afidavit,افيداۏيت
-afiks,افيک‌س
+afiks,افيکس
 afiliasi,افيلياسي
 berafiliasi,برافيلياسي
 afiniti,افينيتي
 afonia,افونيا
 aforisme,افوريسمى
 afrak,افرق
-afrikaans,افريکن‌‌س
+afrikaans,افريکنس
 afrikaner,افريکنر
 afrit,عفريت
 afro,افرو
@@ -1054,7 +1054,7 @@ mengalibabakan,مڠعليباباکن
 alibi,اليبي
 alif,اليف
 alifatik,اليفاتيک
-alif-ba-ta,اليف-‌باء-‌تاء
+alif-ba-ta,اليف-باء-تاء
 aligator,اليݢاتور
 alih,اليه
 alih-alih,اليه٢
@@ -1373,7 +1373,7 @@ ambuk-ambuk,امبوق٢
 ambul,امبول
 mengambul,مڠمبول
 ambulan,امبولن
-ambulans,امبولن‌‌س
+ambulans,امبولنس
 ambulung,امبولوڠ
 ambun,امبون
 ambun-ambun,امبون٢
@@ -1478,7 +1478,7 @@ mengampuh,مڠمڤوه
 mengampuhkan,مڠمڤوهکن
 pengampuh,ڤڠمڤوه
 pengampuhan,ڤڠمڤوهن
-ampuk,ام$وق
+ampuk,امڤوق
 ampul,امڤول
 mengampul,مڠمڤول
 ampun,امڤون
@@ -2075,7 +2075,7 @@ keantikan,کانتيکن
 antikarat,انتيکارت
 antikerajaan,انتيکراجاءن
 antiketuk,انتيکتوق
-antiklimaks,انتيکليمک‌س
+antiklimaks,انتيکليمکس
 antikuiti,انتيکويتي
 antil,انتيل
 antimalaria,انتيملاريا
@@ -2113,7 +2113,7 @@ antologi,انتولوݢي
 mengantologikan,مڠنتولوݢيکن
 antonim,انتونيم
 antonimi,انتونيمي
-antraks,انترک‌س
+antraks,انترکس
 antrasit,انتراسيت
 antre,انتري
 antri,انتري
@@ -2187,7 +2187,7 @@ dipengapakan,دڤڠاڤاکن
 mempengapakan,ممڤڠاڤاکن
 mengapa,مڠاڤ
 mengapa-apai,مڠاڤا-اڤاءي
-mengapa-apakan,مڠاڤا‌-اڤاکن
+mengapa-apakan,مڠاڤا-اڤاکن
 mengapai,مڠاڤاي
 mengapakan,مڠاڤاکن
 apabila,اڤابيلا
@@ -2205,10 +2205,10 @@ apatetik,اڤتيتيک
 apati,اڤاتي
 apeh,اڤيه
 apek,اڤيق
-apeks,اڤيک‌س
+apeks,اڤيکس
 apel,اڤيل
 apendektomi,اڤينديکتومي
-apendiks,اڤينديک‌س
+apendiks,اڤينديکس
 apendisitis,اڤينديسيتيس
 aperitif,اڤيريتيف
 apertur,اڤرتور
@@ -2777,7 +2777,7 @@ atus,اتوس
 au,اءو
 aubad,اءوبد
 aubade,اءوبدى
-audiens,اءوديئن‌س
+audiens,اءوديئنس
 audio,اءوديو
 audiogram,اءوديوݢرم
 audiologi,اءوديولوݢي
@@ -2802,7 +2802,7 @@ ngauman,ڠاءومن
 aung,اءوڠ
 mengaung,مڠاءوڠ
 aungan,اءوڠن
-auns,اءون‌س
+auns,اءونس
 aur,اءور
 aura,اءورا
 aurat,عورة
@@ -3297,7 +3297,7 @@ bahu,باهو
 bahu-membahu,باهو-ممباهو
 membahu,ممباهو
 bahungan,بهوڠن
-bai‘,بيع
+bai,بيع
 baiah,بيعة
 baiat,بيعة
 baid,بيض
@@ -3789,7 +3789,7 @@ banjang,بنجڠ
 banjar,بنجر
 banjaran,بنجرن
 berbanjar,بربنجر
-berbanjar-banjar,بربنجر‌-بنجر
+berbanjar-banjar,بربنجر-بنجر
 berbanjaran,بربنجرن
 membanjarkan,ممبنجرکن
 sebanjar,سبنجر
@@ -3870,7 +3870,7 @@ terbanting,تربنتيڠ
 bantu,بنتو
 bantuan,بنتوان
 berbantu,بربنتو
-berbantu-bantuan,بربنتو‌-بنتوان
+berbantu-bantuan,بربنتو-بنتوان
 berbantukan,بربنتوکن
 dibantu,دبنتو
 membantu,ممبنتو
@@ -4122,8 +4122,8 @@ basya,باشا
 basyah,باشه
 bata,بات
 bata-bata,بات٢
-kebata-bataan,کباتا‌-باتاءن
-terbata-bata,ترباتا‌-بات
+kebata-bataan,کباتا-باتاءن
+terbata-bata,ترباتا-بات
 batai,باتاي
 batak,باتق
 membatak,ممباتق
@@ -4807,11 +4807,11 @@ belatuk,بلاتوق
 belatung,بلاتوڠ
 belau,بلاو
 belau-belau,بلاو٢
-berbelau-belau,بربلاو‌-بلاو
+berbelau-belau,بربلاو-بلاو
 kebelauan,کبلاون
 belawa,بلاوا
 belawan,بلاون
-belcanto,بيل‌‌کنتو
+belcanto,بيلکنتو
 belebar,بلبر
 belebar,بليبر
 belebas,بلبس
@@ -5067,7 +5067,7 @@ pembenaman,ڤمبنمن
 terbenam,تربنم
 benang,بنڠ
 berbenang,بربنڠ
-berbenang-benang,بربنڠ‌‌-بنڠ
+berbenang-benang,بربنڠ-بنڠ
 dibenangi,دبنڠي
 membenang,ممبنڠ
 membenangi,ممبنڠي
@@ -5089,7 +5089,7 @@ membenarkan,ممبنرکن
 memperbenar,ممڤربنر
 pembenaran,ڤمبنرن
 sebenar,سبنر
-sebenar-benar,سبنر‌-بنر
+sebenar-benar,سبنر-بنر
 benara,بنارا
 membenara,ممبنارا
 benarah,بناره
@@ -5106,7 +5106,7 @@ membencanakan,ممبنچاناکن
 bencat,بنچت
 benci,بنچي
 benci-membenci,بنچي-ممبنچي
-berbenci-bencian,بربنچي‌-بنچين
+berbenci-bencian,بربنچي-بنچين
 dibenci,دبنچي
 kebenci,کبنچي
 kebencian,کبنچين
@@ -5676,13 +5676,13 @@ berbesankan,بربيسنکن
 besar,بسر
 berbesar,بربسر
 berbesaran,بربسرن
-berbesar-besaran,بربسر‌-بسرن
+berbesar-besaran,بربسر-بسرن
 besar-besaran,بسر-بسرن
 dibesarkan,دبسرکن
 diperbesar,دڤربسر
 kebesaran,کبسرن
 membesar,ممبسر
-membesar-besarkan,ممبسر‌-بسرکن
+membesar-besarkan,ممبسر-بسرکن
 membesarkan,ممبسرکن
 memperbesar,ممڤربسر
 pembesar,ڤمبسر
@@ -5998,7 +5998,7 @@ mengebil,مڠبيل
 mengebilkan,مڠبيلکن
 pengebilan,ڤڠبيلن
 bila,بيلا
-bila-bila,بيلا‌٢
+bila-bila,بيلا٢
 bilabial,بيلابيال
 bilad,بلاد
 bilah,بيله
@@ -6246,7 +6246,7 @@ bionik,بيونيک
 biopendar,بيوڤندر
 biopsi,بيوڤسي
 bioritma,بيوريتما
-biosains,بيوساءين‌س
+biosains,بيوساءينس
 biosatelit,بيوساتليت
 biosfera,بيوسفيرا
 biosid,بيوسيد
@@ -6295,11 +6295,11 @@ bias,بيسا
 berbisa,بربيسا
 kebisaan,کبيساءن
 bisai,بيساي
-biseks,بيسيک‌س
+biseks,بيسيکس
 biseksual,بيسيکسوال
 bisektris,بيسيکتريس
 bisektrise,بيسيکتريسى
-biseps,بيسيڤ‌س
+biseps,بيسيڤس
 bisik,بيسيق
 berbisik,بربيسيق
 berbisik-bisik,بربيسيق-بيسيق
@@ -6605,7 +6605,7 @@ berborak-borak,بربورق-بورق
 memborak,ممبورق
 memborakkan,ممبورقکن
 pemborak,ڤمبورق
-boraks,بورک‌س
+boraks,بورکس
 borang,بورڠ
 borat,بورت
 borci,بورچي
@@ -7391,7 +7391,7 @@ cabau,چاباو
 mencabau,منچاباو
 cabi,چابي
 cabik,چابيق
-cabik-cabik,چ¬ابيق٢
+cabik-cabik,چابيق٢
 cabikan,چابيقن
 dicabik,دچابيق
 dicabik-cabik,دچابيق-چابيق
@@ -10194,7 +10194,7 @@ dabak,دابق
 mendabak,مندابق
 dabal,دابل
 dabat,دابة
-dabbatulardi,دابةاëرض
+dabbatulardi,دابةارض
 dabih,دابيه
 dabik,دابيق
 mendabik,مندابيق
@@ -10730,7 +10730,7 @@ datia,داتيا
 datin,داتين
 dating,داتيڠ
 berdating,برداتيڠ
-dato’,داتوء
+dato,داتوء
 datu,داتو
 kedatuan,کداتوان
 datuk,داتوق
@@ -12283,11 +12283,11 @@ bersiduga,برسيدوݢ
 diduga,ددوݢ
 dugaan,دوݢاءن
 menduga,مندوݢ
-menduga-duga,مندوݢا - دوݢ
+menduga-duga,مندوݢا-دوݢ
 penduga,ڤندوݢ
 pendugaan,ڤندوݢاءن
 terduga,تردوݢ
-terduga-duga,تردوݢا - دوݢ
+terduga-duga,تردوݢا-دوݢ
 dugal,دوݢل
 mendugalkan,مندوݢلکن
 dugang,دوݢڠ
@@ -12379,7 +12379,7 @@ pendupaan,ڤندوڤاءن
 perdupaan,ڤردوڤاءن
 dupak,دوڤق
 mendupak,مندوڤق
-dupleks,دوڤليک‌س
+dupleks,دوڤليکس
 duplikasi,دوڤليکاسي
 diduplikasikan,ددوڤليکاسيکن
 menduplikasikan,مندوڤليکاسيکن
@@ -12507,7 +12507,7 @@ mengecer,مڠيچير
 mengecerkan,مڠيچيرکن
 pengecer,ڤڠيچير
 edafologi,ايدافولوݢي
-e-dagang,ªي-داݢڠ
+e-dagang,ي-داݢڠ
 edah,عده
 edan,ايدن
 edar,ايدر
@@ -12539,8 +12539,8 @@ efemeral,ايفمرل
 efendi,ايفيندي
 efisien,ايفيسيئن
 keefisienan,کايفيسيئنن
-efloresens,ايفلوريسن‌س
-efluen,ايفلو¢ن
+efloresens,ايفلوريسنس
+efluen,ايفلون
 egah,اݢه
 mengegahkan,مڠݢهکن
 egah,ايݢه
@@ -12564,7 +12564,7 @@ mengegoskan,مڠيݢوسکن
 egosentrik,ايݢوسينتريک
 egosentrisisme,ايݢوسينتريسيسمى
 egotisme,ايݢوتيسمى
-eh,ªيه
+eh,يه
 ehem,ايهيم
 ehwal,اهوال
 einsteinium,اينستينيوم
@@ -12721,7 +12721,7 @@ ekstrinsik,ايکسترينسيک
 ekstrovert,ايکستروۏرت
 ektoparasit,ايکتوڤاراسيت
 ekuestrian,ايکوءيستريان
-ekuinoks,ايکوينوک‌س
+ekuinoks,ايکوينوکس
 ekuiti,ايکويتي
 ekzema,ايکزيما
 ekzos,ايکزوس
@@ -12780,7 +12780,7 @@ elektroterapeutik,ايليکتروتيراڤيوتيک
 elektroterapi,ايليکتروتيراڤي
 elektrum,ايليکتروم
 elemen,ايليمن
-elips,ايليڤ‌س
+elips,ايليڤس
 elipsis,ايليڤسيس
 elit,ايليت
 elitis,ايليتيس
@@ -12873,7 +12873,7 @@ embut,امبوت
 mengembut,مڠمبوت
 mengembut-embut,مڠمبوت-امبوت
 terembut-embut,ترامبوت-امبوت
-e-mel,ªي-ميل
+e-mel,ي-ميل
 menge-melkan,مڠيميلکن
 emeri,ايمري
 emeritus,ايميريتوس
@@ -12984,7 +12984,7 @@ emulsi,ايمولسي
 pengemulsi,ڤڠايمولسي
 pengemulsian,ڤڠايمولسين
 emunggai,اموڠݢاي
-en,ªين
+en,ين
 enak,اينق
 berenak-enak,براينق-اينق
 enak-enak,اينق٢
@@ -13389,9 +13389,9 @@ evolusi,ايۏولوسي
 berevolusi,برايۏولوسي
 ewa,ايوا
 ewah,ايوه
-exgratia,ايک‌سݢراشيا
-exofficio,ايک‌ساوفيشيو
-exparte,ايک‌سڤرتي
+exgratia,ايکسݢراشيا
+exofficio,ايکساوفيشيو
+exparte,ايکسڤرتي
 eyang,اييڠ
 fa,فاء
 faal,فعل
@@ -13437,7 +13437,7 @@ fajirah,فاجرة
 fakih,فقيه
 fakir,فقير
 kefakiran,کفقيرن
-faks,فک‌س
+faks,فکس
 memfakskan,ممفکسکن
 faksimile,فکسيميلي
 fakta,فکتا
@@ -13664,7 +13664,7 @@ fius,فيوس
 fiuslaj,فيوسلج
 fizik,فيزيک
 fizikal,فيزيکل
-flaks,فلک‌س
+flaks,فلکس
 flamingo,فلميڠݢو
 flanel,فلانل
 flanelet,فلانيليت
@@ -14358,9 +14358,9 @@ gapai,ݢاڤاي
 bergapaian,برݢاڤاين
 digapai,دݢاڤاي
 menggapai,مڠݢاڤاي
-menggapai-gapai,مڠݢاڤاي-‌ݢاڤاي
-menggapai-gapaikan,مڠݢاڤاي-‌ݢاڤايکن
-tergapai-gapai,ترݢاڤاي-‌ݢاڤاي
+menggapai-gapai,مڠݢاڤاي-ݢاڤاي
+menggapai-gapaikan,مڠݢاڤاي-ݢاڤايکن
+tergapai-gapai,ترݢاڤاي-ݢاڤاي
 gapil,ݢاڤيل
 menggapil,مڠݢاڤيل
 gapis,ݢاڤيس
@@ -15102,7 +15102,7 @@ gelorat,ݢلورت
 gelosang,ݢلوسڠ
 menggelosang,مڠݢلوسڠ
 gelosok,ݢلوسوق
-gelosok-gelusang,ݢلوسوق-‌ݢلوسڠ
+gelosok-gelusang,ݢلوسوق-ݢلوسڠ
 menggelosok,مڠݢلوسوق
 gelotak,ݢلوتق
 menggelotak,مڠݢلوتق
@@ -15133,7 +15133,7 @@ bergelung,برݢلوڠ
 gelungan,ݢلوڠن
 menggelung,مڠݢلوڠ
 menggelungkan,مڠݢلوڠکن
-tergelung-gelung,ترݢلوڠ-‌ݢلوڠ
+tergelung-gelung,ترݢلوڠ-ݢلوڠ
 geluntur,ݢلونتور
 gelup,ݢلوڤ
 menggelup,مڠݢلوڤ
@@ -15471,7 +15471,7 @@ menggenyeh,مڠݢيڽيه
 genyit,ݢڽيت
 genyot,ݢيڽوت
 genyut,ݢڽوت
-geo,ݢيو‌‌
+geo,ݢيو
 geobotani,ݢيوبوتاني
 geodesi,ݢيوديسي
 geofizik,ݢيوفيزيک
@@ -15484,7 +15484,7 @@ geometri,ݢيوميتري
 geomorfologi,ݢيومورفولوݢي
 geonasti,ݢيونستي
 geopolitik,ݢيوڤوليتيک
-geosains,ݢيوساءين‌س
+geosains,ݢيوساءينس
 geosentrik,ݢيوسينتريک
 geotaksis,ݢيوتکسيس
 geotekstil,ݢيوتيکستيل
@@ -15850,7 +15850,7 @@ menggesa,مڠݢسا
 menggesa-gesa,مڠݢسا-ݢسا
 menggesa-gesakan,مڠݢسا-ݢساکن
 penggesaan,ڤڠݢساءن
-tergesa-gesa,ترݢسا‌-ݢسا
+tergesa-gesa,ترݢسا-ݢسا
 gesau,ݢساو
 gesek,ݢيسيق
 bergesek,برݢيسيق
@@ -16237,7 +16237,7 @@ penggodam,ڤڠݢودم
 penggodaman,ڤڠݢودمن
 godek,ݢوديق
 menggodek-godek,مڠݢوديق-ݢوديق
-tergodek-godek,ترݢوديق-‌ݢوديق
+tergodek-godek,ترݢوديق-ݢوديق
 godok,ݢودوق
 godokan,ݢودوقن
 menggodok,مڠݢودوق
@@ -16281,7 +16281,7 @@ golekan,ݢوليقن
 menggolek,مڠݢوليق
 menggolekkan,مڠݢوليقکن
 tergolek,ترݢوليق
-golf,ݢول‌ف
+golf,ݢولف
 golok,ݢولوق
 bergolok,برݢولوق
 bergolok-bergadai,برݢولوق-برݢاداي
@@ -17000,7 +17000,7 @@ terhakis,ترهاکيس
 hal,حال
 berhal,برحال
 dihalkan,دحالکن
-hal-ehwal,حال احوال
+hal-ehwal,حال-احوال
 mengehalkan,مڠحالکن
 terhal,ترحال
 hala,هالا
@@ -17198,7 +17198,7 @@ hancur,هنچور
 dihancur,دهنچور
 dihancurkan,دهنچورکن
 hancuran,هنچورن
-hancur-mumur,هنچور‌‌-‌مومور
+hancur-mumur,هنچور-مومور
 kehancuran,کهنچورن
 menghancurkan,مڠهنچورکن
 penghancur,ڤڠهنچور
@@ -17552,14 +17552,14 @@ hegemoni,هيݢيموني
 heiho,هيئيهو
 heh,هيه
 heifer,هيئيفر
-heksa,هيکسا‌‌‌
+heksa,هيکسا
 heksagon,هيکساݢون
 heksahedron,هيکساهيدرون
 heksana,هکسان
 hektar,هيکتر
 berhektar-hektar,برهيکتر-هيکتر
 sehektar,سهيکتر
-hekto,هيکتو‌‌
+hekto,هيکتو
 hektogram,هيکتوݢرم
 hektoliter,هيکتوليتر
 hektometer,هيکتوميتر
@@ -17583,7 +17583,7 @@ helang,هلڠ
 helat,هيلت
 perhelatan,ڤرهيلتن
 helikopter,هيليکوڤتر
-heliks,هيليک‌‌س
+heliks,هيليکس
 heliograf,هيليوݢرف
 heliometer,هيليوميتر
 heliosentrik,هيليوسينتريک
@@ -17730,7 +17730,7 @@ terhenyak,ترهڽق
 hepar,هيڤر
 hepatik,هيڤاتيک
 hepatitis,هيڤاتيتيس
-hepta,هيڤتا‌‌
+hepta,هيڤتا
 heptagon,هيڤتاݢون
 heptahedron,هيڤتاهيدرون
 heptatlon,هيڤتاتلون
@@ -17773,8 +17773,8 @@ herpes,هرڤيس
 herpetologi,هرڤيتولوݢي
 hertz,هرز
 hesy,هيش
-hetero,هيترو‌‌
-heterodoks,هيترودوک‌س
+hetero,هيترو
+heterodoks,هيترودوکس
 heterofemi,هيتروفيمي
 heterogen,هيتروݢن
 keheterogenan,کهيتروݢنن
@@ -17847,7 +17847,7 @@ menghidratkan,مڠهيدرتکن
 penghidratan,ڤڠهيدرتن
 hidraulik,هيدراوليک
 hidrida,هيدريدا
-hidro,هيدرو‌‌
+hidro,هيدرو
 hidrobiologi,هيدروبيولوݢي
 hidrodinamik,هيدروديناميک
 hidroelektrik,هيدروايليکتريک
@@ -17994,7 +17994,7 @@ hina,هينا
 berhina,برهينا
 dihina,دهينا
 hina-dina,هينا-دينا
-hina-lata,هينا‌-لاتا
+hina-lata,هينا-لاتا
 hina-leta,هينا-لتا
 hina-papa,هينا-ڤاڤا
 hinaan,هيناءن
@@ -18207,8 +18207,8 @@ homograf,هوموݢرف
 homogram,هوموݢرم
 homonim,هومونيم
 homonimi,هومونيمي
-homosapiens,هوموساڤيئن‌س
-homoseks,هوموسيک‌س
+homosapiens,هوموساڤيئنس
+homoseks,هوموسيکس
 homoseksual,هوموسيکسوال
 kehomoseksualan,کهوموسيکسوالن
 homoseksualiti,هوموسيکسواليتي
@@ -18534,9 +18534,9 @@ ideogram,ايديوݢرم
 ideologi,ايديولوݢي
 berideologi,برايديولوݢي
 berideologikan,برايديولوݢيکن
-idgham,اد‌غام
-diidghamkan,داد‌غامکن
-mengidghamkan,مڠيد‌غامکن
+idgham,ادغام
+diidghamkan,دادغامکن
+mengidghamkan,مڠيدغامکن
 idil,ايديل
 idiofon,ايديوفون
 idiolek,ايديوليک
@@ -18886,7 +18886,7 @@ impresionistik,ايمڤريسيونيستيک
 imprimatura,ايمڤريماتورا
 improvisasi,ايمڤروۏيساسي
 mengimprovisasi,مڠيمڤروۏيساسي
-impuls,ايمڤول‌س
+impuls,ايمڤولس
 impulsif,ايمڤولسيف
 imsak,امساک
 imtihan,امتحان
@@ -18949,9 +18949,9 @@ indang,ايندڠ
 mengindang,مڠيندڠ
 indarus,اينداروس
 indayang,ايندايڠ
-indeks,اينديک‌س
-mengindeks,مڠينديک‌س
-pengindeksan,ڤڠينديک‌سن
+indeks,اينديکس
+mengindeks,مڠينديکس
+pengindeksan,ڤڠينديکسن
 indemniti,اينديمنيتي
 inden,ايندين
 menginden,مڠيندين
@@ -19006,7 +19006,7 @@ menginfakkan,مڠينفاقکن
 infantisid,اينفنتيسيد
 infantri,اينفنتري
 infeksi,اينفيکسي
-inferens,اينفرن‌س
+inferens,اينفرنس
 inferior,اينفيريور
 infestasi,اينفيستاسي
 infiltrasi,اينفيلتراسي
@@ -19119,7 +19119,7 @@ injili,انجيلي
 injin,اينجين
 injunksi,اينجوڠسي
 inkarnasi,اينکرناسي
-inkontinens,اينکونتينن‌س
+inkontinens,اينکونتيننس
 inkubator,اينکوباتور
 inkues,اينکوءيس
 inkuilin,اينکوءيلين
@@ -19171,11 +19171,11 @@ instrumen,اينسترومن
 instrumental,اينسترومينتل
 instrumentasi,اينسترومنتاسي
 insulin,اينسولين
-insurans,اينسورن‌س
-berinsurans,براينسورن‌س
-diinsuranskan,داينسورن‌سکن
-menginsuranskan,مڠينسورن‌سکن
-penginsurans,ڤڠينسورن‌س
+insurans,اينسورنس
+berinsurans,براينسورنس
+diinsuranskan,داينسورنسکن
+menginsuranskan,مڠينسورنسکن
+penginsurans,ڤڠينسورنس
 insya-allah,انشاءالله
 intai,اينتاي
 diintai,داينتاي
@@ -19234,7 +19234,7 @@ interpretasi,اينترڤريتاسي
 menginterpretasikan,مڠينترڤريتاسيکن
 penginterpretasi,ڤڠينترڤريتاسي
 penginterpretasian,ڤڠينترڤريتاسين
-interseks,اينترسيک‌س
+interseks,اينترسيکس
 intervensi,اينترۏينسي
 interviu,اينترۏيو
 menginterviu,مڠينترۏيو
@@ -19259,7 +19259,7 @@ pengintipan,ڤڠينتيڤن
 intiqal,انتقال
 intonasi,اينتوناسي
 berintonasi,براينتوناسي
-intra,اينترا‌‌
+intra,اينترا
 intransitif,اينترنسيتيف
 intraotot,اينتراءوتوت
 intravena,اينتراۏينا
@@ -19395,7 +19395,7 @@ isirung,ايسيروڠ
 islah,اصلاح
 islam,اسلام
 diislamkan,داسلامکن
-keislaman,ک«سلامن
+keislaman,کاسلامن
 mengislamkan,مڠيسلامکن
 pengislaman,ڤڠيسلامن
 islamiah,اسلاميه
@@ -20301,7 +20301,7 @@ jel,جيل
 dijelkan,دجيلکن
 mengejelkan,مڠجيلکن
 jela,جيلا
-berjela-jela,برجيلا‌-جيلا
+berjela-jela,برجيلا-جيلا
 terjela,ترجيلا
 jelabak,جلابق
 terjelabak,ترجلابق
@@ -21499,7 +21499,7 @@ berjuri,برجوري
 juring,جوريڠ
 juringan,جوريڠن
 sejuring,سجوريڠ
-jurisprudens,جوريسڤرودن‌س
+jurisprudens,جوريسڤرودنس
 jurnal,جورنل
 jurnalisme,جورناليسمى
 jurnalistik,جورناليستيک
@@ -21606,7 +21606,7 @@ menjustifikasikan,منجوستيفيکاسيکن
 jut,جوت
 juta,جوتا
 berjuta,برجوتا
-berjuta-juta,برجوتا‌-جوتا
+berjuta-juta,برجوتا-جوتا
 jutaan,جوتاءن
 sejuta,سجوتا
 jutawan,جوتاون
@@ -21693,7 +21693,7 @@ mengaca,مڠاچ
 memperkaca,ممڤرکاچ
 kacak,کاچق
 berkacak,برکاچق
-berkacak-kacak,برکاچق-‌کاچق
+berkacak-kacak,برکاچق-کاچق
 kekacakan,ککاچقن
 mengacak,مڠاچق
 mengacakkan,مڠاچقکن
@@ -21759,7 +21759,7 @@ sekacukan,سکاچوقن
 kacung,کاچوڠ
 kad,کد
 berkad,برکد
-berkad-kad,برکد‌‌‌‌-‌‌کد
+berkad-kad,برکد-کد
 dikadkan,دکدکن
 mengekadkan,مڠکدکن
 sekad,سکد
@@ -22070,7 +22070,7 @@ kalikasar,کليکاسر
 kalikausar,کليکاوسر
 kalikausar,کليکاور
 kaliki,کاليکي
-kaliks,کاليک‌س
+kaliks,کاليکس
 kalimah,کلمه
 berkalimah,برکلمه
 kalimantang,کليمنتڠ
@@ -22466,7 +22466,7 @@ terkapar,ترکاڤر
 kapas,کاڤس
 berkapas,برکاڤس
 kapas-kapas,کاڤس٢
-kapasitans,کاڤاسيتن‌س
+kapasitans,کاڤاسيتنس
 kapasiti,کاڤاسيتي
 kapasitor,کاڤاسيتور
 kapel,کاڤيل
@@ -22781,7 +22781,7 @@ kaspe,کسڤي
 kasrah,کسرة
 kasta,کستا
 berkasta,برکستا
-berkasta-kasta,برکستا‌‌-کستا
+berkasta-kasta,برکستا-کستا
 kekastaan,ککستاءن
 mengkastakan,مڠکستاکن
 kastam,کستم
@@ -22814,8 +22814,8 @@ memperkatakan,ممڤرکاتاکن
 mengata,مڠات
 mengatai,مڠاتاءي
 mengatakan,مڠاتاکن
-mengata-ngata,مڠاتا‌‌-‌‌‌‌ڠات
-mengata-ngatai,مڠاتا‌‌-‌‌‌‌ڠاتاءي
+mengata-ngata,مڠاتا-ڠات
+mengata-ngatai,مڠاتا-ڠاتاءي
 perkataan,ڤرکاتاءن
 sekata,سکات
 terkata,ترکات
@@ -23630,7 +23630,7 @@ kelapayang,کلاڤايڠ
 kelapung,کلاڤوڠ
 kelar,کلر
 berkelar,برکلر
-berkelar-kelar,برکلر‌-کلر
+berkelar-kelar,برکلر-کلر
 dikelar-kelar,دکلر-کلر
 mengelar,مڠلر
 terkelar,ترکلر
@@ -23902,7 +23902,7 @@ dikelipkan,دکليڤکن
 kelipan,کليڤن
 kelip-kelip,کليڤ٢
 mengelipkan,مڠليڤکن
-mengelip-ngelip,مڠليڤ-‌‌‌ڠليڤ
+mengelip-ngelip,مڠليڤ-ڠليڤ
 sekelip,سکليڤ
 terkelip,ترکليڤ
 terkelip-kelip,ترکليڤ-کليڤ
@@ -24051,12 +24051,12 @@ keluburan,کلوبورن
 kelucuk,کلوچوق
 keluh,کلوه
 berkeluh,برکلوه
-berkeluh-keluh,برکلوه‌‌‌-کلوه
-berkeluh-kesah,برکلوه‌‌‌-کسه
+berkeluh-keluh,برکلوه-کلوه
+berkeluh-kesah,برکلوه-کسه
 dikeluhi,دکلوهي
 keluhan,کلوهن
 kekeluhan,ککلوهن
-keluh-kesah,کلوه‌‌‌-کسه
+keluh-kesah,کلوه-کسه
 mengeluh,مڠلوه
 mengeluhi,مڠلوهي
 mengeluhkan,مڠلوهکن
@@ -24163,7 +24163,7 @@ memperkemas,ممڤرکمس
 mengemas,مڠمس
 mengemasi,مڠمسي
 mengemaskan,مڠمسکن
-mengemas-ngemas,مڠمس-‌‌‌ڠمس
+mengemas-ngemas,مڠمس-ڠمس
 pengemas,ڤڠمس
 pengemasan,ڤڠمسن
 perkemasan,ڤرکمسن
@@ -24397,7 +24397,7 @@ kenahang,کناهڠ
 kenal,کنل
 berkenal,برکنل
 berkenalan,برکنلن
-berkenal-kenalan,برکنل‌‌‌‌-کنلن
+berkenal-kenalan,برکنل-کنلن
 dikenali,دکنلي
 diperkenalkan,دڤرکنلکن
 kekenalan,ککنلن
@@ -24450,7 +24450,7 @@ mengencangkan,مڠنچڠکن
 sekencang,سکنچڠ
 terkencang,ترکنچڠ
 kencar,کنچر
-terkencar-kencar,ترکنچر‌‌-‌کنچر
+terkencar-kencar,ترکنچر-کنچر
 kenceng,کينچيڠ
 kencing,کنچيڠ
 berkencing,برکنچيڠ
@@ -25683,7 +25683,7 @@ berketul-ketulan,برکتول-کتولن
 berketulan,برکتولن
 diketul-ketulkan,دکتول-کتولکن
 ketulan,کتولن
-mengetul-ngetulkan,مڠتول-‌‌‌ڠتولکن
+mengetul-ngetulkan,مڠتول-ڠتولکن
 mengetulkan,مڠتولکن
 pengetul,ڤڠتول
 seketul,سکتول
@@ -25960,7 +25960,7 @@ kicar-kicar,کيچر٢
 kicau,کيچاو
 berkicau,برکيچاو
 berkicauan,برکيچاوان
-berkicau-kicauan,برکيچاو‌‌-کيچاوان
+berkicau-kicauan,برکيچاو-کيچاوان
 kicauan,کيچاوان
 kici,کيچي
 kicu,کيچو
@@ -26058,7 +26058,7 @@ berkilau-kilauan,برکيلاو-کيلاوان
 kilauan,کيلاوان
 kilau-kemilau,کيلاو-کميلاو
 kilau-kilauan,کيلاو-کيلاوان
-kilau-mengilau,کيلاو-‌‌‌مڠيلاو
+kilau-mengilau,کيلاو-مڠيلاو
 mengilau,مڠيلاو
 kili,کيلي
 kekili,ککيلي
@@ -26075,7 +26075,7 @@ kilo,کيلو
 berkilo-kilo,برکيلو-کيلو
 kiloan,کيلوان
 sekilo,سکيلو
-kilo,کيلو‌‌
+kilo,کيلو
 kilobait,کيلوباءيت
 kilogram,کيلوݢرم
 kilohertz,کيلوهرز
@@ -26291,7 +26291,7 @@ kitabi,کتابي
 kitabullah,کتابالله
 kitai,کيتاي
 mengitai-ngitaikan,مڠيتاي-ڠيتايکن
-terkitai-kitai,ترکيتاي-‌‌کيتاي
+terkitai-kitai,ترکيتاي-کيتاي
 kitang,کيتڠ
 kitang-kitang,کيتڠ٢
 kitar,کيتر
@@ -26344,7 +26344,7 @@ klien,کليئن
 klik,کليک
 berklik,برکليک
 mengklik,مڠکليک
-klimaks,کليمک‌س
+klimaks,کليمکس
 klimatologi,کليماتولوݢي
 klimis,کليميس
 klimograf,کليموݢرف
@@ -26446,7 +26446,7 @@ kodeina,کوديئينا
 kodek,کوديق
 mengodek-ngodek,مڠوديق-ڠوديق
 terkodek-kodek,ترکوديق-کوديق
-kodeks,کوديک‌س
+kodeks,کوديکس
 kodi,کودي
 berkodi-kodi,برکودي-کودي
 kodian,کودين
@@ -26496,7 +26496,7 @@ pengokot,ڤڠوکوت
 terkokot,ترکوکوت
 kokpit,کوکڤيت
 kokrom,کوکروم
-koksiks,کوکسيک‌‌س
+koksiks,کوکسيکس
 koktel,کوکتيل
 kokun,کوکون
 kokurikulum,کوکوريکولوم
@@ -26655,7 +26655,7 @@ kompensasi,کومڤينساسي
 komperang,کومڤرڠ
 kompeten,کومڤيتن
 kompetitif,کومڤيتيتيف
-kompleks,کومڤليک‌‌س
+kompleks,کومڤليکس
 kekompleksan,ککومڤليکسن
 kompleksiti,کومڤليکسيتي
 komplikasi,کومڤليکاسي
@@ -26782,7 +26782,7 @@ konjunktiva,کونجونکتيۏا
 konjunktivitis,کونجونکتيۏيتيس
 konklusif,کونکلوسيف
 konkologi,کونکولوݢي
-konkordans,کونکوردن‌س
+konkordans,کونکوردنس
 konkos,کونکوس
 konkrit,کوڠکريت
 kekonkritan,ککوڠکريتن
@@ -26862,8 +26862,8 @@ mengontang,مڠونتڠ
 mengontangkan,مڠونتڠکن
 pengontangan,ڤڠونتڠن
 terkontang-kanting,ترکونتڠ-کنتيڠ
-konteks,کونتيک‌س
-kontekstual,کونتيک‌ستوال
+konteks,کونتيکس
+kontekstual,کونتيکستوال
 kontemplasi,کونتيمڤلاسي
 kontemporari,کونتيمڤوراري
 kontena,کونتينا
@@ -27038,7 +27038,7 @@ kospuskel,کورڤوسکل
 korsaj,کورسج
 korset,کورسيت
 korsi,کورسي
-korteks,کورتيک‌‌س
+korteks,کورتيکس
 kortison,کورتيسون
 korundum,کوروندوم
 korup,کوروڤ
@@ -27290,7 +27290,7 @@ menguari,مڠواري
 kuarik,کواريق
 kuart,کوارت
 kuartermaster,کوارترمستر
-kuarters,کوارتر‌س
+kuarters,کوارترس
 kuartet,کوارتيت
 kuarto,کوارتو
 kuarza,کوارزا
@@ -28331,7 +28331,7 @@ makramat,مکرمة
 makrifat,معرفة
 bermakrifat,برمعرفة
 makrifatullah,معرفةالله
-makro,مکرو‌
+makro,مکرو
 makrobiotik,مکروبيوتيک
 makroekonomi,مکروايکونومي
 makrofit,مکروفيت
@@ -28475,7 +28475,7 @@ malu,مالو
 bermalu,برمالو
 dimalukan,دمالوکن
 kemaluan,کمالوان
-kemalu-maluan,کمالو‌-مالوان
+kemalu-maluan,کمالو-مالوان
 malu-malu,مالو٢
 memalui,ممالوءي
 memalukan,ممالوکن
@@ -28483,7 +28483,7 @@ mempermalukan,ممڤرمالوکن
 mengemalui,مڠمالوءي
 pemalu,ڤمالو
 semalu,سمالو
-termalu-malu,ترمالو‌-مالو
+termalu-malu,ترمالو-مالو
 malun,ملعون
 malung,مالوڠ
 malut,مالوت
@@ -28922,7 +28922,7 @@ masing,ماسيڠ
 masing-masing,ماسيڠ٢
 masir,ماسير
 masjid,مسجد
-masjidilaqsa,مسجداëقصى
+masjidilaqsa,مسجداقصى
 masjidilharam,مسجدالحرام
 maskanat,مسکنة
 maskara,مسکارا
@@ -29034,7 +29034,7 @@ bermatlamatkan,برمتلامتکن
 matra,مترا
 matriark,ماتريارک
 matriarki,ماتريارکي
-matriks,ماتريک‌س
+matriks,ماتريکس
 matrikulasi,ماتريکولاسي
 matrilineal,ماتريلينيال
 matrilokal,ماتريلوکل
@@ -29908,9 +29908,9 @@ mineraloid,مينرالوءيد
 minggat,ميڠݢت
 minggir,ميڠݢير
 minggu,ميڠݢو
-berminggu-minggu,برميڠݢو‌-ميڠݢو
+berminggu-minggu,برميڠݢو-ميڠݢو
 mingguan,ميڠݢوان
-seminggu-mingguan,سميڠݢو‌-ميڠݢوان
+seminggu-mingguan,سميڠݢو-ميڠݢوان
 mingkin,ميڠکين
 minhaj,منهاج
 mini,ميني
@@ -30282,7 +30282,7 @@ semuat-muat,سموات-موات
 termuat,ترموات
 muazam,معظم
 muazin,موءاذين
-mub’ad,مبعض
+mubad,مبعض
 mubah,مباح
 mubalaghah,مبالغة
 mubaligh,مبلغ
@@ -30816,7 +30816,7 @@ nafiri,نفيري
 nafkah,نفقه
 menafkahi,منفقهي
 menafkahkan,منفقهکن
-nafs,نف‌س
+nafs,نفس
 nafsi,نفسي
 bernafsi-nafsi,برنفسي-نفسي
 nafsi-nafsi,نفسي٢
@@ -31081,7 +31081,7 @@ nefrologi,نيفرولوݢي
 nefron,نيفرون
 nefropiosis,نيفروڤيوسيس
 nefrosis,نيفروسيس
-néfrotomi,نيفروتومي
+nefrotomi,نيفروتومي
 negara,نݢارا
 bernegara,برنݢارا
 kenegaraan,کنݢاراءن
@@ -32020,7 +32020,7 @@ opor,اوڤور
 oportunis,اوڤورتونيس
 oportunisme,اوڤورتونيسمى
 oposisi,اوڤوسيسي
-ops,اوڤ‌س
+ops,اوڤس
 opseter,اوڤسيتر
 opsiner,اوڤسينر
 opsinder,اوڤسيندر
@@ -32207,7 +32207,7 @@ pacangan,ڤاچڠن
 pacar,ڤاچر
 berpacar,برڤاچر
 berpacaran,برڤاچرن
-berpacar-pacaran,برڤاچر‌-ڤاچرن
+berpacar-pacaran,برڤاچر-ڤاچرن
 pacaran,ڤاچرن
 pacat,ڤاچت
 pacau,ڤاچاو
@@ -32240,7 +32240,7 @@ pad,ڤد
 pada,ڤد
 pada,ڤادا
 berpada,برڤادا
-berpada-pada,برڤادا‌-ڤادا
+berpada-pada,برڤادا-ڤادا
 memadai,مماداءي
 memadakan,مماداکن
 memada-madai,ممادا-ماداءي
@@ -32721,7 +32721,7 @@ panca,ڤنچا
 berpanca,برڤنچا
 memanca,ممنچا
 memancakan,ممنچاکن
-panca,ڤنچا‌
+panca,ڤنچا
 pancabicara,ڤنچابيچارا
 pancabuta,ڤنچابوتا
 pancadarma,ڤنچادرما
@@ -33172,7 +33172,7 @@ memparadam,ممڤارادم
 paradam-paradom,ڤارادم-ڤارادوم
 paradigma,ڤاراديݢما
 paradigmatik,ڤاراديݢماتيک
-paradoks,ڤارادوک‌س
+paradoks,ڤارادوکس
 paradoksial,ڤارادوکسيال
 paradom,ڤارادوم
 parafin,ڤارافين
@@ -33347,7 +33347,7 @@ terpasar,ترڤاسر
 pasara,ڤاسرا
 pasasir,ڤساسير
 pasat,ڤاست
-pasca,ڤسچا‌
+pasca,ڤسچا
 pascakolonial,ڤسچاکولونيال
 pascamajlis,ڤسچامجليس
 pascamatang,ڤسچاماتڠ
@@ -35612,10 +35612,10 @@ pitu,ڤيتو
 pitut,ڤيتوت
 piuh,ڤيوه
 berpiuh,برڤيوه
-berpiuh-piuh,برڤيوه‌‌‌‌-‌‌‌‌ڤيوه
+berpiuh-piuh,برڤيوه-ڤيوه
 dipiuh,دڤيوه
 memiuh,مميوه
-memiuh-miuh,مميوه‌‌-ميوه
+memiuh-miuh,مميوه-ميوه
 terpiuh,ترڤيوه
 piuh-pilin,ڤيوه-ڤيلين
 piuh-piuh,ڤيوه٢
@@ -35991,7 +35991,7 @@ pemotretan,ڤموتريتن
 potret-memotret,ڤوتريت-مموتريت
 poyan,ڤوين
 poyang,ڤويڠ
-pra,ڤرا‌‌
+pra,ڤرا
 praakhir,ڤرااخير
 praanggapan,ڤرااڠݢڤن
 prabawa,ڤراباوا
@@ -36112,7 +36112,7 @@ pripih,ڤريڤيه
 pris,ڤريس
 prisma,ڤريسما
 privasi,ڤريۏاسي
-pro,ڤرو‌
+pro,ڤرو
 proaktif,ڤرواکتيف
 probet,ڤروبيت
 probiotik,ڤروبيوتيک
@@ -36168,7 +36168,7 @@ proktokolektomi,ڤروکتوکوليکتومي
 proktokolitis,ڤروکتوکوليتيس
 proktoskop,ڤروکتوسکوڤ
 prolaktin,ڤرولکتين
-prolaps,ڤرولڤ‌‌س
+prolaps,ڤرولڤس
 proletar,ڤروليتر
 proletariat,ڤروليتاريات
 prolifik,ڤروليفيک
@@ -36874,15 +36874,15 @@ ra,راء
 rab,رب
 raba,راب
 diraba,دراب
-diraba-raba,درابا‌-راب
+diraba-raba,درابا-راب
 meraba,مراب
-meraba-raba,مرابا‌-راب
+meraba-raba,مرابا-راب
 merabai,مراباءي
 peraba,ڤراب
 rabaan,راباءن
-teraba-raba,ترابا‌-راب
+teraba-raba,ترابا-راب
 raba-raba,راب٢
-raba-rabu,راب‌-رابو
+raba-rabu,راب-رابو
 rabab,ربب
 rabah,رابه
 rabak,رابق
@@ -36974,7 +36974,7 @@ rades,راديس
 radi,رضي
 radiallahuanhu,رضياللهعنه
 radian,راديان
-radiator,راديا‌تور
+radiator,رادياتور
 radiasi,رادياسي
 radif,راديف
 radikal,راديکل
@@ -37067,7 +37067,7 @@ beragi,براݢي
 diragikan,دراݢيکن
 meragi,مراݢي
 meragikan,مراݢيکن
-raghib,را‌غيب
+raghib,راغيب
 ragin,راݢين
 rago,راݢو
 ragu,راݢو
@@ -37715,7 +37715,7 @@ perasaan,ڤراساءن
 rasakan,راساکن
 rasa-rasa,راس٢
 serasa,سراس
-serasa-rasa,سراسا‌-راس
+serasa-rasa,سراسا-راس
 terasa,تراس
 terasakan,تراساکن
 rasai,راساي
@@ -37912,7 +37912,7 @@ rayapan,رايڤن
 terayap-rayap,ترايڤ-رايڤ
 rayau,راياو
 merayau,مراياو
-merayau-rayau,مراياو‌-راياو
+merayau-rayau,مراياو-راياو
 perayau,ڤراياو
 rayon,رايون
 rayu,رايو
@@ -38186,7 +38186,7 @@ direka-reka,دريکا-ريک
 mereka,مريک
 merekakan,مريکاکن
 mereka-reka,مريکا-ريک
-mereka-rekakan,مريکا‌-ريکاکن
+mereka-rekakan,مريکا-ريکاکن
 pereka,ڤريک
 perekaan,ڤريکاءن
 perekaciptaan,ڤريکاچيڤتاءن
@@ -38224,7 +38224,7 @@ rekening,ريکنيڠ
 rekes,ريکيس
 merekes,مريکيس
 reklame,ريکلامى
-mereklamekan,مريکلام£کن
+mereklamekan,مريکلامکن
 reklasering,ريکلاسيريڠ
 rekod,ريکود
 direkodkan,دريکودکن
@@ -38265,7 +38265,7 @@ merelaikan,مرلايکن
 perelaian,ڤرلاين
 relai,ريلاي
 merelai,مريلاي
-relaks,ريلک‌س
+relaks,ريلکس
 merelakskan,مريلکسکن
 relaksasi,ريلکساسي
 relang,رلڠ
@@ -38273,7 +38273,7 @@ merelang,مرلڠ
 relap,رلڤ
 merelap,مرلڤ
 merelap-relap,مرلڤ-رلڤ
-relaps,ريلڤ‌‌س
+relaps,ريلڤس
 relas,رلس
 direlas,درلس
 merelas,مرلس
@@ -38446,7 +38446,7 @@ remut,رموت
 meremut,مرموت
 rena,رنا
 renai,رناي
-renaisans,رينايسن‌س
+renaisans,رينايسنس
 renal,رينل
 renang,رنڠ
 berenang,برنڠ
@@ -38505,7 +38505,7 @@ kerencongan,کرينچوڠن
 merencong,مرينچوڠ
 renda,ريندا
 berenda,بريندا
-berenda-renda,بريندا‌-ريندا
+berenda-renda,بريندا-ريندا
 direnda,دريندا
 merenda,مريندا
 rendah,رنده
@@ -38945,7 +38945,7 @@ respek,ريسڤيک
 respirasi,ريسڤيراسي
 respirator,ريسڤيراتور
 responden,ريسڤوندن
-respons,ريسڤون‌‌س
+respons,ريسڤونس
 responsif,ريسڤونسيف
 restan,ريستن
 reston,ريستون
@@ -39608,7 +39608,7 @@ rongsokan,روڠسوقن
 ronta,رونتا
 dironta,درونتا
 meronta,مرونتا
-meronta-ronta,مرونتا‌-رونتا
+meronta-ronta,مرونتا-رونتا
 rontaan,رونتاءن
 rontek,رونتيق
 rontok,رونتوق
@@ -40379,7 +40379,7 @@ saingan,ساءيڠن
 saing-menyaing,ساءيڠ-مڽاءيڠ
 saing-menyaingi,ساءيڠ-مڽاءيڠي
 sesaing,سساءيڠ
-sains,ساءين‌س
+sains,ساءينس
 saintifik,ساءينتيفيک
 kesaintifikan,کساءينتيفيکن
 saintis,ساءينتيس
@@ -40680,7 +40680,7 @@ sambah,سامبه
 sambah-sambah,سامبه٢
 sambal,سمبل
 menyambal,مڽمبل
-sambal-sambalan,سمبل‌‌‌-سمبلن
+sambal-sambalan,سمبل-سمبلن
 sambalan,سمبلن
 sambalewa,سمباليوا
 disambalewakan,سمباليواکن
@@ -41132,7 +41132,7 @@ bersapa,برساڤ
 bersapaan,برساڤاءن
 bersapa-sapaan,برساڤا-ساڤاءن
 menyapa,مڽاڤ
-sapa-menyapa,ساڤ‌‌-مڽاڤ
+sapa-menyapa,ساڤ-مڽاڤ
 sapaan,ساڤاءن
 tersapa,ترساڤ
 sapai,ساڤاي
@@ -41358,7 +41358,7 @@ bersaudara,برساودارا
 bersaudarakan,برساوداراکن
 mempersaudarakan,ممڤرساوداراکن
 persaudaraan,ڤرساوداراءن
-saudara-bersaudara,ساودارا‌-برساودارا
+saudara-bersaudara,ساودارا-برساودارا
 saudara-mara,ساودارا-مارا
 saudari,ساوداري
 sauh,ساءوه
@@ -41449,7 +41449,7 @@ sayembara,سايمبارا
 sayid,سيد
 sayidina,سيدنا
 sayu,سايو
-bersayu-sayu,برسايو‌-سايو
+bersayu-sayu,برسايو-سايو
 kesayuan,کسايوان
 menyayu,مڽايو
 menyayukan,مڽايوکن
@@ -41466,8 +41466,8 @@ disayur,دسايور
 menyayur,مڽايور
 menyayurkan,مڽايورکن
 sayuran,سايورن
-sayur-mayur,سايور‌-مايور
-sayur-sayuran,سايور‌-سايورن
+sayur-mayur,سايور-مايور
+sayur-sayuran,سايور-سايورن
 schilling,شيليڠ
 seba,سيبا
 berseba,برسيبا
@@ -41949,7 +41949,7 @@ sekretari,سيکريتاري
 sekretariat,سيکريتاريات
 sekretaris,سيکريتاريس
 sekretin,سيکريتين
-seks,سيک‌س
+seks,سيکس
 seksa,سيقسا
 diseksa,دسيقسا
 menyeksa,مڽيقسا
@@ -42014,7 +42014,7 @@ menyela,مڽلا
 menyelai,مڽلاءي
 menyelakan,مڽلاکن
 selaan,سلاءن
-sela-menyela,سلا‌-مڽلا
+sela-menyela,سلا-مڽلا
 sela-sela,سلا٢
 sela,سيلا
 menyelakan,مڽيلاکن
@@ -42147,7 +42147,7 @@ diselar,دسلر
 menyelar,مڽلر
 menyelarkan,مڽلرکن
 selaran,سلرن
-selar-menyelar,سلر‌-مڽلر
+selar-menyelar,سلر-مڽلر
 selara,سلارا
 menyelara,مڽلارا
 selaru,سلارو
@@ -42779,7 +42779,7 @@ sembulu,سمبولو
 sembung,سمبوڠ
 sembunyi,سمبوڽي
 bersembunyi,برسمبوڽي
-bersembunyi-sembunyian,برسمبوڽي‌‌-سمبوڽين
+bersembunyi-sembunyian,برسمبوڽي-سمبوڽين
 disembunyikan,دسمبوڽيکن
 menyembunyikan,مڽمبوڽيکن
 penyembunyi,ڤڽمبوڽي
@@ -42822,7 +42822,7 @@ bersemenda,برسمندا
 kesemendaan,کسمنداءن
 menyemenda,مڽمندا
 persemendaan,ڤرسمنداءن
-semenda-menyemenda,سمندا‌-مڽمندا
+semenda-menyemenda,سمندا-مڽمندا
 semendal,سمندل
 semendarasa,سمنداراس
 semenggah,سمڠݢه
@@ -43055,7 +43055,7 @@ senda,سندا
 bersenda,برسندا
 bersenda-senda,برسندا-سندا
 disendakan,دسنداکن
-menyenda-nyendakan,مڽند‌-ڽنداکن
+menyenda-nyendakan,مڽند-ڽنداکن
 mempersendakan,ممڤرسنداکن
 persendaan,ڤرسنداءن
 sendaan,سنداءن
@@ -43685,7 +43685,7 @@ penyerahhakan,ڤڽرهحقن
 serahan,سرهن
 serahi,سراهي
 terserah,ترسره
-terserah-serah,ترسره‌-سره
+terserah-serah,ترسره-سره
 serah,سيره
 serai,سراي
 serai-serai,سراي٢
@@ -44179,7 +44179,7 @@ serutan,سروتن
 serutu,سروتو
 seruyan,سروين
 server,سرۏر
-serviks,سرۏيک‌‌س
+serviks,سرۏيکس
 servis,سرۏيس
 diservis,دسرۏيس
 menservis,منسرۏيس
@@ -44755,7 +44755,7 @@ silikosis,سيليکوسيس
 silinder,سيليندر
 siling,سيليڠ
 silir,سيلير
-bersilir-silir,برسيلير‌-سيلير
+bersilir-silir,برسيلير-سيلير
 siliran,سيليرن
 silo,سيلو
 silogisme,سيلوݢيسمى
@@ -44799,8 +44799,8 @@ simbolisme,سيمبوليسمى
 simbukan,سيمبوکن
 simbur,سيمبور
 bersimbur,برسيمبور
-bersimbur-simbur,برسيمبور‌-سيمبور
-bersimbur-simburan,برسيمبور‌-سيمبورن
+bersimbur-simbur,برسيمبور-سيمبور
+bersimbur-simburan,برسيمبور-سيمبورن
 disimbur,دسيمبور
 disimburi,دسيمبوري
 menyimbur,مڽيمبور
@@ -44962,7 +44962,7 @@ bersingguh,برسيڠݢوه
 singgul,سيڠݢول
 disinggul,دسيڠݢول
 menyinggul,مڽيڠݢول
-singgung,سيڠݢ-و‌ڠ
+singgung,سيڠݢ-وڠ
 bersinggungan,برسيڠݢوڠن
 disinggung,دسيڠݢوڠ
 menyinggung,مڽيڠݢوڠ
@@ -45152,7 +45152,7 @@ sirkol,سيرکول
 sirkuit,سيرکوءيت
 sirkulasi,سيرکولاسي
 sirkuler,سيرکولير
-sirkumfleks,سيرکومفليک‌‌س
+sirkumfleks,سيرکومفليکس
 sirna,سيرنا
 disirnakan,دسيرناکن
 menyirnakan,مڽيرناکن
@@ -45295,7 +45295,7 @@ skabies,سکابييس
 skala,سکالا
 berskala,برسکالا
 penskalaan,ڤنسکالاءن
-skalarichter,سکالا‌ريکتر
+skalarichter,سکالاريکتر
 skalogram,سکالوݢرم
 skalop,سکالوڤ
 skalpel,سکلڤل
@@ -46565,7 +46565,7 @@ menyunyi,مڽوڽي
 sup,سوڤ
 supai,سوڤاي
 supaya,سوڤايا
-super,سوڤر‌‌
+super,سوڤر
 superego,سوڤرئيݢو
 superfisial,سوڤرفيسيال
 superfosfat,سوڤرفوسفت
@@ -46588,7 +46588,7 @@ suplemen,سوڤليمن
 suplementari,سوڤليمنتاري
 supletoar,سوڤليتووار
 supositori,سوڤوسيتوري
-supra,سوڤرا‌
+supra,سوڤرا
 supranasional,سوڤراناسيونل
 supranasionalisme,سوڤراناسيوناليسمى
 supremasi,سوڤريماسي
@@ -46684,7 +46684,7 @@ bersusila,برسوسيلا
 kesusilaan,کسوسيلاءن
 susilat,سوسيلت
 suspek,سوسڤيک
-suspens,سوسڤين‌س
+suspens,سوسڤينس
 suspensi,سوسڤينسي
 suster,سوستر
 susu,سوسو
@@ -46991,7 +46991,7 @@ bertabir,برتابير
 bertabirkan,برتابيرکن
 ditabiri,دتابيري
 menabiri,منابيري
-tabir-menabir,تابير‌-منابير
+tabir-menabir,تابير-منابير
 tabla,تبلا
 tablet,تبليت
 tabligh,تبليغ
@@ -47113,7 +47113,7 @@ tagan,تاݢن
 bertagan,برتاݢن
 tagar,تاݢر
 bertagar,برتاݢر
-taghut,طا‌غوت
+taghut,طاغوت
 tagih,تاݢيه
 ditagih,دتاݢيه
 ketagih,کتاݢيه
@@ -47741,7 +47741,7 @@ ditampar,دتمڤر
 menampar,منمڤر
 menampari,منمڤري
 menamparkan,منمڤرکن
-menampar-nampar,منمڤر‌-نمڤر
+menampar-nampar,منمڤر-نمڤر
 penampar,ڤنمڤر
 tamparan,تمڤرن
 tertampar,ترتمڤر
@@ -48058,7 +48058,7 @@ pertanggungan,ڤرتڠݢوڠن
 pertanggungjawaban,ڤرتڠݢوڠجوابن
 tanggungan,تڠݢوڠن
 tanggungjawab,تڠݢوڠجواب
-tanggung-tanggung,تڠݢوڠ‌٢
+tanggung-tanggung,تڠݢوڠ٢
 tanggung-menanggung,ت-ڠݢوڠ-منڠݢوڠ
 tertanggung,ترتڠݢوڠ
 tangis,تاڠيس
@@ -48176,7 +48176,7 @@ menanjur,مننجور
 menanjur-nanjur,مننجور-ننجور
 tanpa,تنڤا
 tanpadaksa,تنڤادقسا
-tan sri,تنسري
+tan sri,تن سري
 tantalum,تنتالوم
 tantan,تنتن
 tantang,تانتڠ
@@ -48633,7 +48633,7 @@ penawanan,ڤناونن
 tawanan,تاونن
 tertawan,ترتاون
 tawang,تاوڠ
-tawang-tawang,تاوڠ‌٢
+tawang-tawang,تاوڠ٢
 tawar,تاور
 bertawar-tawaran,برتاور-تاورن
 ditawarkan,دتاورکن
@@ -48987,7 +48987,7 @@ tekong,تيکوڠ
 tekoran,تيکورن
 tekpi,تيقڤي
 tekpo,تيقڤو
-teks,تيک‌س
+teks,تيکس
 teksi,تيکسي
 berteksi,برتيکسي
 tekstil,تيکستيل
@@ -49113,7 +49113,7 @@ teledera,تيليدرا
 teledor,تليدور
 keteledoran,کتليدورن
 meneledorkan,منليدورکن
-telefaks,تيليفک‌س
+telefaks,تيليفکس
 telefilem,تيليفيلم
 telefon,تيليفون
 bertelefon,برتيليفون
@@ -49137,7 +49137,7 @@ menelekap,منلکڤ
 telekom,تيليکوم
 telekomunikasi,تيليکومونيکاسي
 teleks,تيليکس
-meneleks,منيليک‌‌س
+meneleks,منيليکس
 teleku,تلکو
 berteleku,برتلکو
 telekuiz,تيليکوءيز
@@ -49186,7 +49186,7 @@ telesidang,تيليسيدڠ
 teleskop,تيليسکوڤ
 teleskopi,تيليسکوڤي
 teletaip,تيليتاءيڤ
-teleteks,تيليتيک‌س
+teleteks,تيليتيکس
 teleton,تيليتون
 televisyen,تيليۏيشن
 telik,تليق
@@ -49940,7 +49940,7 @@ terabait,تيراباءيت
 teracak,تراچق
 terada,ترادا
 teradang,ترادڠ
-teraflops,تيرافلوڤ‌‌س
+teraflops,تيرافلوڤس
 terai,تراي
 terajam,تراجم
 terajang,تراجڠ
@@ -49996,7 +49996,7 @@ terang-temaram,ترڠ-تمارم
 terang-temarang,ترڠ-تمارڠ
 terang-temerang,ترڠ-تمرڠ
 terang-tumerang,ترڠ-تومرڠ
-terang-terang,ترڠ‌٢
+terang-terang,ترڠ٢
 terang-terangan,ترڠ-ترڠن
 terangkera,ترڠکيرا
 terangkik,ترڠکيق
@@ -50745,7 +50745,7 @@ tindawan,تينداون
 tindih,تينديه
 bertindih,برتينديه
 bertindihan,برتينديهن
-bertindih-tindih,برتينديه-‌‌‌تينديه
+bertindih-tindih,برتينديه-تينديه
 ditindih,دتينديه
 ketindihan,کتينديهن
 menindih,منينديه
@@ -51031,7 +51031,7 @@ peniup,ڤنيوڤ
 peniupan,ڤنيوڤن
 tertiup,ترتيوڤ
 tiupan,تيوڤن
-tiup-tiup,تيوڤ‌٢
+tiup-tiup,تيوڤ٢
 tmesis,تميسيس
 tiwikrama,تيويکراما
 bertiwikrama,برتيويکراما
@@ -51378,7 +51378,7 @@ top-top,توڤ٢
 tor,تور
 torak,تورق
 torak-torak,تورق٢
-toraks,تورک‌س
+toraks,تورکس
 toreh,توريه
 bertoreh,برتوريه
 ditoreh,دتوريه
@@ -51540,13 +51540,13 @@ trio,تريو
 trioksid,تريئوکسيد
 triolet,تريوليت
 trip,تريڤ
-tripleks,تريڤليک‌س
+tripleks,تريڤليکس
 triplet,تريڤليت
 tripod,تريڤود
 triprasetia,تريڤراستيا
 tripsin,تريڤسين
 trirangkai,تريرڠکاي
-triseps,تريسيڤ‌س
+triseps,تريسيڤس
 trisula,تريسولا
 triti,تريتي
 tritium,تريتيوم
@@ -51580,13 +51580,13 @@ tsarina,تزرينا
 tsetse,تسيتسي
 tsunami,تسونامي
 tua,توا
-bertua-tua,برتوا‌-توا
+bertua-tua,برتوا-توا
 bertua-tuaan,برتوا-تواءن
 dipertua,دڤرتوا
 dituakan,دتواکن
 ketua,کتوا
 ketuaan,کتواءن
-ketua-tuaan,کتوا‌-تواءن
+ketua-tuaan,کتوا-تواءن
 menua,منوا
 menuakan,منواکن
 pengetua,ڤڠتوا
@@ -51646,7 +51646,7 @@ menuani,منواني
 menuankan,منوانکن
 tuanan,توانن
 pertuanan,ڤرتوانن
-tuan-tuan,توان‌٢
+tuan-tuan,توان٢
 tuang,تواڠ
 bertuang,برتواڠ
 dituang,دتواڠ
@@ -51659,7 +51659,7 @@ menuangkan,منواڠکن
 penuangan,ڤنواڠن
 tertuang,ترتواڠ
 tuangan,تواڠن
-tuang-tuang,تواڠ‌٢
+tuang-tuang,تواڠ٢
 tuangku,تواڠکو
 tuanku,توانکو
 tuap,تواڤ
@@ -51776,7 +51776,7 @@ mempertuhan,ممڤرتوهن
 mempertuhankan,ممڤرتوهنکن
 tuhfah,تحفة
 tuhfat,تحفة
-tuhfatulajnas,تحفةاëجناس
+tuhfatulajnas,تحفةاجناس
 tuhu,توهو
 tuhus,توهوس
 tuhut,توهوت
@@ -51856,7 +51856,7 @@ penukaran,ڤنوکرن
 pertukaran,ڤرتوکرن
 tertukar,ترتوکر
 tukaran,توکرن
-tukar-menukar,توکر‌-منوکر
+tukar-menukar,توکر-منوکر
 tukas,توکس
 bertukas-tukas,برتوکس-توکس
 ditukas,دتوکس
@@ -52347,7 +52347,7 @@ menuruni,منوروني
 menurunkan,منورونکن
 penurunan,ڤنورونن
 turunan,تورونن
-turun-temurun,تورون-‌‌‌تمورون
+turun-temurun,تورون-تمورون
 turus,توروس
 menurus,منوروس
 menuruskan,منوروسکن
@@ -52356,7 +52356,7 @@ turut,توروت
 berturut,برتوروت
 berturutan,برتوروتن
 berturuti,برتوروتي
-berturut-turut,برتوروت-‌‌‌توروت
+berturut-turut,برتوروت-توروت
 diperturut,دڤرتوروت
 diperturutkan,دڤرتوروتکن
 dituruti,دتوروتي
@@ -52582,7 +52582,7 @@ udeh,اوديه
 udek,اودق
 mengudek,مڠودق
 udeng,اودڠ
-udeng-udeng,اودڠ‌٢
+udeng-udeng,اودڠ٢
 udet,اودت
 udi,اودي
 udik,اوديق
@@ -52678,7 +52678,7 @@ pengukiran,ڤڠوکيرن
 terukir,تراوکير
 ukiran,اوکيرن
 ukir-mengukir,اوکير-مڠوکير
-ukir-ukiran,اوکير‌-اوکيرن
+ukir-ukiran,اوکير-اوکيرن
 uktab,عقتاب
 ukulele,اوکوليلي
 ukup,اوکوڤ
@@ -52808,7 +52808,7 @@ ulun,اولون
 ulung,اولوڠ
 keulungan,کاولوڠن
 terulung,تراولوڠ
-ulung-ulung,اولوڠ‌٢
+ulung-ulung,اولوڠ٢
 ulup,اولوڤ
 uma,اوما
 umah,اومه
@@ -52960,7 +52960,7 @@ perundangan,ڤراوندڠن
 perundang-undangan,ڤراوندڠ-اوندڠن
 terundang,تراوندڠ
 undangan,اوندڠن
-undang-undang,اوندڠ‌٢
+undang-undang,اوندڠ٢
 perundangan,ڤراوندڠن
 undi,اوندي
 berundi,براوندي
@@ -52977,7 +52977,7 @@ unduk-unduk,اوندوق٢
 undung,اوندوڠ
 berundung-undung,براوندوڠ-اوندوڠ
 memperundungkan,ممڤراوندوڠکن
-undung-undung,اوندوڠ‌٢
+undung-undung,اوندوڠ٢
 undur,اوندور
 berundur,براوندور
 diundurkan,داوندورکن
@@ -53087,7 +53087,7 @@ keunikan,کاونيکن
 unilateral,اونيلاترل
 unilateralisme,اونيلاتراليسمى
 uniporem,اونيڤورم
-uniseks,اونيسيک‌س
+uniseks,اونيسيکس
 unisel,اونيسيل
 unit,اونيت
 unisel,اونيسيل
@@ -53172,7 +53172,7 @@ keuntungan,کاونتوڠن
 menguntungkan,مڠونتوڠکن
 peruntungan,ڤراونتوڠن
 seperuntungan,سڤراونتوڠن
-untung-untung,اونتوڠ‌٢
+untung-untung,اونتوڠ٢
 untung-untungan,اونتوڠ-اونتوڠن
 untut,اونتوت
 unyai,اوڽاي
@@ -53180,7 +53180,7 @@ berunyai,براوڽاي
 berunyai-unyai,براوڽاي-اوڽاي
 mengunyai,مڠوڽاي
 unyi,اوڽي
-upa,اوڤا‌‌
+upa,اوڤا
 upacara,اوڤاچارا
 upaduta,اوڤادوتا
 upah,اوڤه
@@ -53247,7 +53247,7 @@ menguraikan,مڠورايکن
 penguraian,ڤڠوراين
 terurai,تراوراي
 uran,اورن
-uran-uran,اورن‌٢
+uran-uran,اورن٢
 urang,اورڠ
 urang-aring,اورڠ-اريڠ
 uranit,اورانيت
@@ -53377,7 +53377,7 @@ mengusapi,مڠوسڤي
 usar,اوسر
 user,اوسر
 user-user,اوسر٢
-user-useran,اوسر‌-اوسرن
+user-useran,اوسر-اوسرن
 usia,اوسيا
 berusia,براوسيا
 usik,اوسيق
@@ -53587,7 +53587,7 @@ videofon,ۏيديوفون
 videografi,ۏيديوݢرافي
 videografik,ۏيديوݢرافيک
 videogram,ۏيديوݢرم
-videoteks,ۏيديوتيک‌‌س
+videoteks,ۏيديوتيکس
 vietkong,ۏييتکوڠ
 vikariat,ۏيکاريات
 vila,ۏيلا
@@ -53604,7 +53604,7 @@ virologi,ۏيرولوݢي
 virus,ۏيروس
 bervirus,برۏيروس
 virusid,ۏيروسيد
-vis-à-vis,ۏيس-ا-ۏيس
+vis-a-vis,ۏيس-ا-ۏيس
 visa,ۏيسا
 bervisa,برۏيسا
 visi,ۏيسي
@@ -54164,8 +54164,8 @@ yatim,يتيم
 keyatiman,کيتيمن
 yaum,يوم
 yaumuddin,يومالدين
-yaumul-akhir,يوماëخير
-yaumul-akhirah,يوماëخيرة
+yaumul-akhir,يوماخير
+yaumul-akhirah,يوماخيرة
 yaumul-kiamah,يومالقيامة
 yaumul-kiamati,يومالقيامة
 yaumul-mahsyar,يومالمحشر
@@ -54264,9 +54264,9 @@ zaujah,زوجه
 zawiat,زاوية
 zebra,زيبرا
 zeolit,زيوليت
-zeroks,زيروک‌س
-dizeroks,دزيروک‌س
-menzeroks,منزيروک‌س
+zeroks,زيروکس
+dizeroks,دزيروکس
+menzeroks,منزيروکس
 zeta,زيتا
 ziadah,زياده
 ziarah,زياره
@@ -54388,7 +54388,7 @@ melabuhkan,ملابوهکن
 pelabuhan,ڤلابوهن
 labun,لابون
 berlabun,برلابون
-berlabun-labun,برلابون-‌‌لابون
+berlabun-labun,برلابون-لابون
 labunan,لابونن
 pelabun,ڤلابون
 labur,لابور
@@ -54991,7 +54991,7 @@ pelanggan,ڤلڠݢن
 langgar,لڠݢر
 berlanggar,برلڠݢر
 berlanggaran,برلڠݢرن
-berlanggar-langgaran,برلڠݢر‌-لڠݢرن
+berlanggar-langgaran,برلڠݢر-لڠݢرن
 dilanggari,دلڠݢري
 dilanggarkan,دلڠݢرکن
 melanggar,ملڠݢر
@@ -55203,7 +55203,7 @@ terlantun,ترلنتون
 lantung,لانتوڠ
 berlantung,برلانتوڠ
 lantung-lantang,لانتوڠ-لانتڠ
-lantung-lantung,لانتوڠ‌٢
+lantung-lantung,لانتوڠ٢
 melantung,ملانتوڠ
 terlantung,ترلانتوڠ
 terlantung-lantung,ترلانتوڠ-لانتوڠ
@@ -55244,13 +55244,13 @@ lapak,لاڤق
 berlapak,برلاڤق
 lapan,لاڤن
 berlapan,برلاڤن
-berlapan-lapan,برلاڤن-‌‌‌لاڤن
+berlapan-lapan,برلاڤن-لاڤن
 kelapan,کلاڤن
-kelapan-lapan,کلاڤن-‌‌‌لاڤن
+kelapan-lapan,کلاڤن-لاڤن
 perlapan,ڤرلاڤن
 lapang,لاڤڠ
 berlapang,برلاڤڠ
-berlapang-lapang,برلاڤڠ-‌‌‌لاڤڠ
+berlapang-lapang,برلاڤڠ-لاڤڠ
 dilapangkan,دلاڤڠکن
 kelapangan,کلاڤڠن
 lapangan,لاڤڠن
@@ -55429,14 +55429,14 @@ melarungkan,ملاروڠکن
 larut,لاروت
 berlarut,برلاروت
 berlarutan,برلاروتن
-berlarut-larut,برلاروت-‌‌لاروت
+berlarut-larut,برلاروت-لاروت
 dilarutkan,دلاروتکن
 kelarutan,کلاروتن
 keterlarutan,کترلاروتن
 larutan,لاروتن
 melarut,ملاروت
 melarutkan,ملاروتکن
-melarut-larutkan,ملاروت-‌‌‌لاروتکن
+melarut-larutkan,ملاروت-لاروتکن
 pelarut,ڤلاروت
 pelarutan,ڤلاروتن
 terlarut,ترلاروت
@@ -55504,7 +55504,7 @@ latas,لاتس
 melatas,ملاتس
 latat,لاتت
 melatat-melotot,ملاتت-ملوتوت
-lateks,لاتيک‌س
+lateks,لاتيکس
 latep,لاتڤ
 lateral,لاترل
 laterit,لاتريت
@@ -55668,7 +55668,7 @@ layangan,لايڠن
 layang-layang,لايڠ٢
 melayang,ملايڠ
 melayangkan,ملايڠکن
-melayang-layang,ملايڠ-‌‌‌لايڠ
+melayang-layang,ملايڠ-لايڠ
 pelayangan,ڤلايڠن
 selayang,سلايڠ
 terlayang,ترلايڠ
@@ -56050,7 +56050,7 @@ lekup,لکوڤ
 lekup-lekap,لکوڤ-لکڤ
 lela,ليلا
 berlela,برليلا
-dilela-lelakan,دليلا‌-ليلاکن
+dilela-lelakan,دليلا-ليلاکن
 melela,مليلا
 melelakan,مليلاکن
 lelaba,للاب
@@ -56717,7 +56717,7 @@ pelesenan,ڤليسينن
 leser,ليسير
 berpeleseran,برڤليسيرن
 meleser,مليسير
-meleser-leser,مليسير‌-ليسير
+meleser-leser,مليسير-ليسير
 peleser,ڤليسير
 leset,ليسيت
 meleset,مليسيت
@@ -56981,9 +56981,9 @@ lillah,لله
 lillahi,لله
 lima,ليم
 berlima,برليم
-berlima-lima,برليما‌-ليم
+berlima-lima,برليما-ليم
 kelima,کليم
-kelima-lima,کليما‌-ليم
+kelima-lima,کليما-ليم
 perlima,ڤرليم
 seperlima,سڤرليم
 liman,ليمن
@@ -57180,7 +57180,7 @@ dilintangi,دلينتڠي
 dilintangkan,دلينتڠکن
 lintangan,لينتڠن
 lintang-kedak,لينتڠ-کدق
-lintang-pukang,لينتڠ-‌‌‌‌ڤوکڠ
+lintang-pukang,لينتڠ-ڤوکڠ
 melintang,ملينتڠ
 melintangi,ملينتڠي
 melintangkan,ملينتڠکن
@@ -57306,7 +57306,7 @@ litigan,ليتيݢن
 litigasi,ليتيݢاسي
 litium,ليتيوم
 litmus,ليتموس
-lito,ليتو‌
+lito,ليتو
 litofit,ليتوفيت
 litograf,ليتوݢرف
 litografi,ليتوݢرافي
@@ -57383,8 +57383,8 @@ perlogaman,ڤرلوݢمن
 logamaya,لوݢاماي
 loganberi,لوݢنبيري
 logaritma,لوݢاريتما
-loghat,لو‌غت
-berloghat,برلو‌غت
+loghat,لوغت
+berloghat,برلوغت
 logik,لوݢيک
 kelogikan,کلوݢيکن
 pelogik,ڤلوݢيک
@@ -57394,7 +57394,7 @@ melogokan,ملوݢوکن
 logogram,لوݢوݢرم
 logu,لوݢو
 loh,لوح
-lohmahfuz,لوح محفوظ
+lohmahfuz,لوحمحفوظ
 lohok,لوهوق
 lohong,لوهوڠ
 loji,لوجي
@@ -57847,7 +57847,7 @@ lumayan,لوماين
 lumba,لومبا
 berlumba,برلومبا
 berlumbaan,برلومباءن
-berlumba-lumba,برلومبا‌-لومبا
+berlumba-lumba,برلومبا-لومبا
 berlumba-lumbaan,برلومبا-لومباءن
 lumba-lumba,لومبا٢
 memperlumbakan,ممڤرلومباکن
@@ -59647,7 +59647,7 @@ habuannya,هبوانڽ
 ganangnya,ݢانڠڽ
 godaannya,ݢوداءنڽ
 gilirannya,ݢيليرنڽ
-ghaibnya,‌غاءيبڽ
+ghaibnya,غاءيبڽ
 gembiranya,ݢمبيراڽ
 gelitanya,ݢليتاڽ
 gangguannya,ݢڠݢوانڽ
@@ -61237,7 +61237,7 @@ bergamat,برݢامت
 bergambar,برݢمبر
 bergambuh,برݢمبوه
 bergamis,برݢاميس
-bergamit-gamitan,برݢاميت-‌ݢاميتن
+bergamit-gamitan,برݢاميت-ݢاميتن
 berganda,برݢندا
 bergandar,برݢندر
 berganding,برݢانديڠ
@@ -61315,7 +61315,7 @@ bergema,برݢما
 bergemalai,برݢمالاي
 bergemar,برݢمر
 bergembala,برݢمبالا
-bergembar-gembur,برݢمبر‌‌-‌ݢمبور
+bergembar-gembur,برݢمبر-ݢمبور
 bergembira,برݢمبيرا
 bergembleng,برݢمبليڠ
 bergembung,برݢمبوڠ
@@ -61383,7 +61383,7 @@ bergoncang,برݢونچڠ
 bergondol,برݢوندول
 bergong,برݢوڠ
 bergonjong,برݢونجوڠ
-bergopoh-gapah,برݢوڤوه-‌‌ݢاڤه
+bergopoh-gapah,برݢوڤوه-ݢاڤه
 bergopoh-gopoh,برݢوڤوه٢
 bergores,برݢوريس
 bergori,برݢوري
@@ -61571,7 +61571,7 @@ beringinkan,برايڠينکن
 berinisiatif,براينيسياتيف
 berinsang,براينسڠ
 berinspirasi,براينسڤيراسي
-berinsurans,براينسورن‌س
+berinsurans,براينسورنس
 berintan,براينتن
 berintegrasi,براينتݢراسي
 berintegriti,براينتيݢريتي
@@ -61765,7 +61765,7 @@ berkabut,برکابوت
 berkaca,برکاچ
 berkacak,برکاچق
 berkacau,برکاچاو
-berkacau-bilau,برکاچاو‌‌-‌‌‌بيلاو
+berkacau-bilau,برکاچاو-بيلاو
 berkadar,برقدر
 berkadaran,برقدرن
 berkadi,برقاضي
@@ -61869,7 +61869,7 @@ berkeciak,برکچياق
 berkecibak,برکچيبق
 berkecicak,برکچيچق
 berkecil,برکچيل
-berkecil-kecilan,برکچيل-‌کچيلن
+berkecil-kecilan,برکچيل-کچيلن
 berkecimpung,برکچيمڤوڠ
 berkecindan,برکچيندن
 berkecipak,برکچيڤق
@@ -61948,7 +61948,7 @@ berkeloyak,برکلويق
 berkeluarga,برکلوارݢ
 berkelubung,برکلوبوڠ
 berkeluh,برکلوه
-berkeluh-kesah,برکلوه‌‌‌-کسه
+berkeluh-kesah,برکلوه-کسه
 berkeluk,برکلوق
 berkelulusan,برکلولوسن
 berkelumun,برکلومون
@@ -62206,7 +62206,7 @@ berkubah,برقبة
 berkubang,برکوبڠ
 berkubu,برکوبو
 berkubur,برقبور
-berkucar-kacir,برکوچر‌‌-‌کاچير
+berkucar-kacir,برکوچر-کاچير
 berkucing-kucing,برکوچيڠ٢
 berkucup,برکوچوڤ
 berkucupan,برکوچوڤن
@@ -62438,7 +62438,7 @@ berliur,برليور
 berloceng,برلوچيڠ
 berlodak,برلودق
 berlogam,برلوݢم
-berloghat,برلو‌غت
+berloghat,برلوغت
 berlok,برلوق
 berlolok,برلولوق
 berlompang,برلومڤڠ
@@ -62692,7 +62692,7 @@ berpamor,برڤامور
 berpanah,برڤانه
 berpanas,برڤانس
 berpanau,برڤاناو
-berpanca,برڤنچا‌
+berpanca,برڤنچا
 berpancaran,برڤانچرن
 berpancung,برڤنچوڠ
 berpancutan,برڤنچوتن
@@ -63916,7 +63916,7 @@ beruncit,براونچيت
 berundan,براوندن
 berundangan,براوندڠن
 berundi,براوندي
-berundung-undung,براوندوڠ‌٢
+berundung-undung,براوندوڠ٢
 berundur,براوندور
 berunggun,براوڠݢون
 beruniform,براونيفورم
@@ -64516,7 +64516,7 @@ diimbau,دايمباو
 diimport,دايمڤورت
 diinai,دايناي
 diindang,دايندڠ
-diindeks,داينديک‌س
+diindeks,داينديکس
 diingat,دايڠت
 diingatkan,دايڠتکن
 diinginkan,دايڠينکن
@@ -65221,7 +65221,7 @@ disilakan,دسيلاکن
 disimpan,دسيمڤن
 disimpul,دسيمڤول
 disindir,دسيندير
-disinggung,دسيڠݢ-و‌ڠ
+disinggung,دسيڠݢ-وڠ
 disintesis,دسينتيسيس
 disipat,دسيڤت
 disira,دسيرا
@@ -66428,7 +66428,7 @@ geramnya,ݢرمڽ
 gerangannya,ݢرڠنڽ
 geriginya,ݢري-ݢ--يڽ
 getahnya,ݢتهڽ
-ghalibnya,‌غاليبڽ
+ghalibnya,غاليبڽ
 giginya,ݢيݢيڽ
 gigitannya,ݢيݢيتنڽ
 gilanya,ݢيلاڽ
@@ -66448,7 +66448,7 @@ hadamnya,هضمڽ
 hadirnya,حاضيرڽ
 halangannya,هالڠنڽ
 halanya,هالاڽ
-hal-ehwalnya,حال احوالڽ
+hal-ehwalnya,حال-احوالڽ
 haluannya,هلوانڽ
 hampanya,همڤاڽ
 hampasnya,هامڤسڽ
@@ -66638,7 +66638,7 @@ kecualinya,کچواليڽ
 kecurangannya,کچورڠنڽ
 kedainya,کدايڽ
 kedapatannya,کداڤتنڽ
-kedua-duanya,کدوا‌-دواڽ
+kedua-duanya,کدوا-دواڽ
 kedurjanaannya,کدورجاناءنڽ
 kefanaannya,کفناءنڽ
 kegagalannya,کݢاݢلنڽ
@@ -66843,7 +66843,7 @@ latarnya,لاترڽ
 lateritnya,لاتريتڽ
 latihannya,لاتيهنڽ
 lauknya,لاءوقڽ
-lauk-pauknya,لاءوق-‌‌‌ڤاءوقڽ
+lauk-pauknya,لاءوق-ڤاءوقڽ
 lawatannya,لاوتنڽ
 layaknya,لايقڽ
 lebih-lebihnya,لبيه٢ڽ
@@ -67030,7 +67030,7 @@ mengandunginya,مڠاندوڠيڽ
 mengangkutnya,مڠڠکوتڽ
 menganiayainya,مڠانياياءيڽ
 mengantarainya,مڠنتاراءيڽ
-mengapa-apakannya,مڠاڤا‌-اڤاکنڽ
+mengapa-apakannya,مڠاڤا-اڤاکنڽ
 mengarahkannya,مڠارهکنڽ
 mengasapinya,مڠاسڤيڽ
 mengasingkannya,مڠاسيڠکنڽ
@@ -67643,7 +67643,7 @@ sebanyaknya,سباڽقڽ
 sebatangnya,سباتڠڽ
 sebatiannya,سباتينڽ
 sebelahnya,سبلهڽ
-sebenar-benarnya,سبنر‌-بنرڽ
+sebenar-benarnya,سبنر-بنرڽ
 sebetulnya,سبتولڽ
 seboleh-bolehnya,سبوليه-بوليهڽ
 sebutannya,سبوتنڽ
@@ -67656,7 +67656,7 @@ sedikitnya,سديکيتڽ
 sedikit-sedikitnya,سديکيت٢ڽ
 seelok-eloknya,سايلوق-ايلوقڽ
 seenaknya,ساينقڽ
-segala-galanya,سݢالا‌‌-‌‌ݢالاڽ
+segala-galanya,سݢالا-ݢالاڽ
 segalanya,سݢالاڽ
 segenapnya,سݢنڤڽ
 sehabis-habisnya,سهابيس-هابيسڽ
@@ -67667,7 +67667,7 @@ sejenisnya,سجنيسڽ
 sejuknya,سجوقڽ
 sekadarnya,سقدرڽ
 sekampungnya,سکامڤوڠڽ
-sekecil-kecilnya,سکچيل-‌‌کچيلڽ
+sekecil-kecilnya,سکچيل-کچيلڽ
 sekelumitnya,سکلوميتڽ
 sekeras-kerasnya,سکرس-کرسڽ
 sekolahnya,سکولهڽ
@@ -67963,7 +67963,7 @@ ulirnya,اوليرڽ
 umbinya,اومبيڽ
 umbutnya,اومبوتڽ
 umpannya,اومڤنڽ
-undang-undangnya,اوندڠ‌٢ڽ
+undang-undangnya,اوندڠ٢ڽ
 unggulnya,اوڠݢولڽ
 ungkapannya,اوڠکڤنڽ
 unsurnya,عنصورڽ
@@ -69556,7 +69556,7 @@ ejek-ejek,ايجيق٢
 faedah-faedahnya,فاءيده٢ڽ
 fahaman-fahaman,فهمن٢
 firman-firman,فرمان٢
-gelap-gelitanya,ݢلڤ-‌ݢليتاڽ
+gelap-gelitanya,ݢلڤ-ݢليتاڽ
 gerak-gerimu,ݢرق-ݢريمو
 gereja-gereja,ݢريجا٢
 gua-gua,ݢوا٢
@@ -69666,7 +69666,7 @@ sahabat-sahabatmu,صحابت٢مو
 sangkaan-sangkaan,سڠکاءن٢
 saudara-saudaraku,ساودارا٢کو
 saudara-saudaramu,ساودارا٢مو
-sayur-sayurannya,سايور‌-سايورنڽ
+sayur-sayurannya,سايور-سايورنڽ
 sebelah-sebelah,سبله٢
 sedekah-sedekah,صدقه٢
 sekutu-sekutu,سکوتو٢
@@ -69689,7 +69689,7 @@ tandan-tandan,تندن٢
 tangga-tangga,تڠݢ٢
 tangkai-tangkainya,تڠکاي٢ڽ
 tempat-tempatnya,تمڤت٢ڽ
-terburu-burunya,تربورو‌-بوروڽ
+terburu-burunya,تربورو-بوروڽ
 tetamu-tetamuku,تتامو٢کو
 tingkatan-tingkatan,تيڠکتن٢
 tongkat-tongkat,توڠکت٢
@@ -69698,7 +69698,7 @@ tumbuh-tumbuhannya,تومبوه-تومبوهنڽ
 tunggu-tunggu,توڠݢو٢
 ubun-ubunnya,اوبون٢ڽ
 umat-umat,اومت٢
-undang-undangku,اوندڠ‌٢کو
+undang-undangku,اوندڠ٢کو
 unta-unta,اونتا٢
 utusan-utusan,اوتوسن٢
 wali-wali,والي٢
@@ -69934,7 +69934,7 @@ didiskusikan,دديسکوسيکن
 diendahkan,دايندهکن
 dierami,دارمي
 difadihatkan,دفضيحةکن
-difakskan,دفک‌سکن
+difakskan,دفکسکن
 difikiri,دفيکيري
 digaduhkan,دݢادوهکن
 digalangkan,دݢالڠکن
@@ -70171,7 +70171,7 @@ empunyai,امڤوڽاي
 fai,فاءي
 gamai,ݢاماي
 gemai,ݢماي
-ghazali,‌غزالي
+ghazali,غزالي
 gini,ݢيني
 gui,ݢوي
 habisi,هابيسي
@@ -70588,7 +70588,7 @@ setandan,ستندن
 setangkai,ستڠکاي
 setelaga,ستلاݢ
 setenang,ستينڠ
-seterang-terang,سترڠ‌٢
+seterang-terang,سترڠ٢
 setetar,ستتر
 setetek,ستيتيق
 setidaknya,ستيدقڽ
@@ -70630,7 +70630,7 @@ temahai,تماهي
 temi,تيمي
 temui,تموي
 terjuni,ترجوني
-terkata-katai,ترکاتا‌‌-‌‌کاتي
+terkata-katai,ترکاتا-کاتي
 ternaiki,ترناءيقي
 terokai,تروکي
 tertahani,ترتاهني
@@ -70782,7 +70782,7 @@ al-baqa,البقاء
 al-barzanji,البرزنجي
 al-fadil,الفضيل
 al-fana,الفناء
-al-ghazali,ال‌غزالي
+al-ghazali,الغزالي
 al-harab,الحرب
 al-haram,الحرام
 al-hayat,الحيات
@@ -71264,7 +71264,7 @@ pahat-memahat,ڤاهت-مماهت
 paku-pakis,ڤاکو-ڤاکيس
 palang-memalang,ڤالڠ-ممالڠ
 palu-memalu,ڤالو-ممالو
-panca-persada,ڤنچا‌-ڤرسادا
+panca-persada,ڤنچا-ڤرسادا
 pan-islam,ڤن-اسلام
 parang-memarang,ڤارڠ-ممڤرڠ
 pecah-receh,ڤچه-ريچيه
@@ -71284,7 +71284,7 @@ perwai-wai,ڤرواي-واي
 petunjuk-nya,ڤتونجوق-ڽا
 pindah-pindahan,ڤينده-ڤيندهن
 pinjam-meminjam,ڤينجم-ممينجم
-pro-peking,ڤرو‌-ڤکيڠ
+pro-peking,ڤرو-ڤکيڠ
 proses-verbal,ڤروسيس-ۏربل
 pulas-memulas,ڤولس-ممولس
 putera-puteri,ڤوترا-ڤوتري
