@@ -1,0 +1,268 @@
+Device: cuda
+Train: 57159, Val: 7144, Test: 7146
+Src vocab: 37, Tgt vocab: 49
+  batch 0/447, src=(128, 22) tgt=(128, 15)
+  batch 100/447, src=(128, 16) tgt=(128, 16)
+  batch 200/447, src=(128, 16) tgt=(128, 15)
+  batch 300/447, src=(128, 27) tgt=(128, 15)
+  batch 400/447, src=(128, 22) tgt=(128, 16)
+Epoch  1: loss=0.5128, tf=1.00, time=26.8s
+  val_acc=74.75%
+  -> saved jawi_gru_best.pt (val_acc=74.75%)
+  batch 0/447, src=(128, 27) tgt=(128, 18)
+  batch 100/447, src=(128, 19) tgt=(128, 14)
+  batch 200/447, src=(128, 19) tgt=(128, 16)
+  batch 300/447, src=(128, 18) tgt=(128, 16)
+  batch 400/447, src=(128, 18) tgt=(128, 15)
+Epoch  2: loss=0.1553, tf=0.95, time=26.1s
+  val_acc=80.21%
+  -> saved jawi_gru_best.pt (val_acc=80.21%)
+  batch 0/447, src=(128, 21) tgt=(128, 18)
+  batch 100/447, src=(128, 20) tgt=(128, 18)
+  batch 200/447, src=(128, 21) tgt=(128, 14)
+  batch 300/447, src=(128, 17) tgt=(128, 16)
+  batch 400/447, src=(128, 18) tgt=(128, 16)
+Epoch  3: loss=0.1267, tf=0.90, time=25.9s
+  val_acc=82.64%
+  -> saved jawi_gru_best.pt (val_acc=82.64%)
+  batch 0/447, src=(128, 23) tgt=(128, 16)
+  batch 100/447, src=(128, 20) tgt=(128, 14)
+  batch 200/447, src=(128, 20) tgt=(128, 16)
+  batch 300/447, src=(128, 24) tgt=(128, 14)
+  batch 400/447, src=(128, 19) tgt=(128, 14)
+Epoch  4: loss=0.1167, tf=0.86, time=26.4s
+  val_acc=84.45%
+  -> saved jawi_gru_best.pt (val_acc=84.45%)
+  batch 0/447, src=(128, 17) tgt=(128, 17)
+  batch 100/447, src=(128, 17) tgt=(128, 16)
+  batch 200/447, src=(128, 18) tgt=(128, 13)
+  batch 300/447, src=(128, 20) tgt=(128, 16)
+  batch 400/447, src=(128, 17) tgt=(128, 14)
+Epoch  5: loss=0.1029, tf=0.81, time=26.5s
+  val_acc=84.88%
+  -> saved jawi_gru_best.pt (val_acc=84.88%)
+  batch 0/447, src=(128, 21) tgt=(128, 16)
+  batch 100/447, src=(128, 18) tgt=(128, 13)
+  batch 200/447, src=(128, 19) tgt=(128, 15)
+  batch 300/447, src=(128, 17) tgt=(128, 14)
+  batch 400/447, src=(128, 20) tgt=(128, 17)
+Epoch  6: loss=0.1009, tf=0.77, time=26.6s
+  val_acc=84.84%
+  patience=1/5
+  batch 0/447, src=(128, 17) tgt=(128, 17)
+  batch 100/447, src=(128, 18) tgt=(128, 15)
+  batch 200/447, src=(128, 27) tgt=(128, 18)
+  batch 300/447, src=(128, 18) tgt=(128, 14)
+  batch 400/447, src=(128, 21) tgt=(128, 18)
+Epoch  7: loss=0.0997, tf=0.74, time=26.5s
+  val_acc=85.93%
+  -> saved jawi_gru_best.pt (val_acc=85.93%)
+  batch 0/447, src=(128, 19) tgt=(128, 16)
+  batch 100/447, src=(128, 21) tgt=(128, 15)
+  batch 200/447, src=(128, 20) tgt=(128, 14)
+  batch 300/447, src=(128, 21) tgt=(128, 14)
+  batch 400/447, src=(128, 19) tgt=(128, 17)
+Epoch  8: loss=0.0895, tf=0.70, time=26.5s
+  val_acc=86.73%
+  -> saved jawi_gru_best.pt (val_acc=86.73%)
+  batch 0/447, src=(128, 17) tgt=(128, 14)
+  batch 100/447, src=(128, 16) tgt=(128, 14)
+  batch 200/447, src=(128, 20) tgt=(128, 14)
+  batch 300/447, src=(128, 23) tgt=(128, 18)
+  batch 400/447, src=(128, 19) tgt=(128, 16)
+Epoch  9: loss=0.0826, tf=0.66, time=26.6s
+  val_acc=87.40%
+  -> saved jawi_gru_best.pt (val_acc=87.40%)
+  batch 0/447, src=(128, 27) tgt=(128, 18)
+  batch 100/447, src=(128, 19) tgt=(128, 15)
+  batch 200/447, src=(128, 20) tgt=(128, 14)
+  batch 300/447, src=(128, 19) tgt=(128, 16)
+  batch 400/447, src=(128, 17) tgt=(128, 14)
+Epoch 10: loss=0.0840, tf=0.63, time=26.4s
+  val_acc=87.16%
+  patience=1/5
+  batch 0/447, src=(128, 16) tgt=(128, 15)
+  batch 100/447, src=(128, 17) tgt=(128, 14)
+  batch 200/447, src=(128, 18) tgt=(128, 15)
+  batch 300/447, src=(128, 18) tgt=(128, 13)
+  batch 400/447, src=(128, 20) tgt=(128, 16)
+Epoch 11: loss=0.0866, tf=0.60, time=26.4s
+  val_acc=87.88%
+  -> saved jawi_gru_best.pt (val_acc=87.88%)
+  batch 0/447, src=(128, 22) tgt=(128, 17)
+  batch 100/447, src=(128, 19) tgt=(128, 16)
+  batch 200/447, src=(128, 20) tgt=(128, 13)
+  batch 300/447, src=(128, 18) tgt=(128, 15)
+  batch 400/447, src=(128, 19) tgt=(128, 16)
+Epoch 12: loss=0.0829, tf=0.57, time=26.5s
+  val_acc=87.57%
+  patience=1/5
+  batch 0/447, src=(128, 19) tgt=(128, 16)
+  batch 100/447, src=(128, 19) tgt=(128, 15)
+  batch 200/447, src=(128, 17) tgt=(128, 14)
+  batch 300/447, src=(128, 19) tgt=(128, 15)
+  batch 400/447, src=(128, 19) tgt=(128, 16)
+Epoch 13: loss=0.0774, tf=0.54, time=26.6s
+  val_acc=87.74%
+  patience=2/5
+  batch 0/447, src=(128, 19) tgt=(128, 16)
+  batch 100/447, src=(128, 16) tgt=(128, 14)
+  batch 200/447, src=(128, 20) tgt=(128, 15)
+  batch 300/447, src=(128, 19) tgt=(128, 16)
+  batch 400/447, src=(128, 19) tgt=(128, 16)
+Epoch 14: loss=0.0780, tf=0.51, time=26.6s
+  val_acc=87.36%
+  patience=3/5
+  batch 0/447, src=(128, 20) tgt=(128, 14)
+  batch 100/447, src=(128, 19) tgt=(128, 14)
+  batch 200/447, src=(128, 23) tgt=(128, 16)
+  batch 300/447, src=(128, 19) tgt=(128, 16)
+  batch 400/447, src=(128, 18) tgt=(128, 16)
+Epoch 15: loss=0.0567, tf=0.49, time=26.4s
+  val_acc=89.03%
+  -> saved jawi_gru_best.pt (val_acc=89.03%)
+  batch 0/447, src=(128, 27) tgt=(128, 17)
+  batch 100/447, src=(128, 19) tgt=(128, 16)
+  batch 200/447, src=(128, 18) tgt=(128, 14)
+  batch 300/447, src=(128, 20) tgt=(128, 14)
+  batch 400/447, src=(128, 22) tgt=(128, 18)
+Epoch 16: loss=0.0423, tf=0.46, time=26.4s
+  val_acc=89.54%
+  -> saved jawi_gru_best.pt (val_acc=89.54%)
+  batch 0/447, src=(128, 19) tgt=(128, 17)
+  batch 100/447, src=(128, 20) tgt=(128, 16)
+  batch 200/447, src=(128, 18) tgt=(128, 16)
+  batch 300/447, src=(128, 20) tgt=(128, 21)
+  batch 400/447, src=(128, 17) tgt=(128, 14)
+Epoch 17: loss=0.0407, tf=0.44, time=26.6s
+  val_acc=89.70%
+  -> saved jawi_gru_best.pt (val_acc=89.70%)
+  batch 0/447, src=(128, 17) tgt=(128, 16)
+  batch 100/447, src=(128, 19) tgt=(128, 15)
+  batch 200/447, src=(128, 19) tgt=(128, 15)
+  batch 300/447, src=(128, 18) tgt=(128, 13)
+  batch 400/447, src=(128, 21) tgt=(128, 15)
+Epoch 18: loss=0.0399, tf=0.42, time=26.4s
+  val_acc=89.31%
+  patience=1/5
+  batch 0/447, src=(128, 21) tgt=(128, 15)
+  batch 100/447, src=(128, 19) tgt=(128, 17)
+  batch 200/447, src=(128, 18) tgt=(128, 16)
+  batch 300/447, src=(128, 23) tgt=(128, 17)
+  batch 400/447, src=(128, 18) tgt=(128, 16)
+Epoch 19: loss=0.0388, tf=0.40, time=26.6s
+  val_acc=89.46%
+  patience=2/5
+  batch 0/447, src=(128, 17) tgt=(128, 15)
+  batch 100/447, src=(128, 19) tgt=(128, 15)
+  batch 200/447, src=(128, 19) tgt=(128, 17)
+  batch 300/447, src=(128, 17) tgt=(128, 15)
+  batch 400/447, src=(128, 23) tgt=(128, 16)
+Epoch 20: loss=0.0387, tf=0.38, time=26.6s
+  val_acc=89.07%
+  patience=3/5
+  batch 0/447, src=(128, 19) tgt=(128, 14)
+  batch 100/447, src=(128, 18) tgt=(128, 15)
+  batch 200/447, src=(128, 22) tgt=(128, 17)
+  batch 300/447, src=(128, 19) tgt=(128, 15)
+  batch 400/447, src=(128, 20) tgt=(128, 14)
+Epoch 21: loss=0.0270, tf=0.36, time=26.4s
+  val_acc=89.74%
+  -> saved jawi_gru_best.pt (val_acc=89.74%)
+  batch 0/447, src=(128, 15) tgt=(128, 15)
+  batch 100/447, src=(128, 19) tgt=(128, 13)
+  batch 200/447, src=(128, 23) tgt=(128, 15)
+  batch 300/447, src=(128, 21) tgt=(128, 15)
+  batch 400/447, src=(128, 20) tgt=(128, 17)
+Epoch 22: loss=0.0245, tf=0.34, time=26.4s
+  val_acc=89.92%
+  -> saved jawi_gru_best.pt (val_acc=89.92%)
+  batch 0/447, src=(128, 22) tgt=(128, 15)
+  batch 100/447, src=(128, 17) tgt=(128, 15)
+  batch 200/447, src=(128, 21) tgt=(128, 16)
+  batch 300/447, src=(128, 18) tgt=(128, 19)
+  batch 400/447, src=(128, 17) tgt=(128, 14)
+Epoch 23: loss=0.0229, tf=0.32, time=26.3s
+  val_acc=89.82%
+  patience=1/5
+  batch 0/447, src=(128, 19) tgt=(128, 18)
+  batch 100/447, src=(128, 17) tgt=(128, 14)
+  batch 200/447, src=(128, 21) tgt=(128, 16)
+  batch 300/447, src=(128, 20) tgt=(128, 14)
+  batch 400/447, src=(128, 21) tgt=(128, 15)
+Epoch 24: loss=0.0222, tf=0.31, time=26.4s
+  val_acc=89.88%
+  patience=2/5
+  batch 0/447, src=(128, 19) tgt=(128, 16)
+  batch 100/447, src=(128, 17) tgt=(128, 14)
+  batch 200/447, src=(128, 18) tgt=(128, 16)
+  batch 300/447, src=(128, 21) tgt=(128, 17)
+  batch 400/447, src=(128, 19) tgt=(128, 16)
+Epoch 25: loss=0.0227, tf=0.30, time=26.4s
+  val_acc=90.06%
+  -> saved jawi_gru_best.pt (val_acc=90.06%)
+  batch 0/447, src=(128, 19) tgt=(128, 14)
+  batch 100/447, src=(128, 19) tgt=(128, 16)
+  batch 200/447, src=(128, 19) tgt=(128, 14)
+  batch 300/447, src=(128, 19) tgt=(128, 14)
+  batch 400/447, src=(128, 21) tgt=(128, 16)
+Epoch 26: loss=0.0209, tf=0.30, time=26.5s
+  val_acc=90.16%
+  -> saved jawi_gru_best.pt (val_acc=90.16%)
+  batch 0/447, src=(128, 20) tgt=(128, 15)
+  batch 100/447, src=(128, 20) tgt=(128, 14)
+  batch 200/447, src=(128, 18) tgt=(128, 16)
+  batch 300/447, src=(128, 22) tgt=(128, 17)
+  batch 400/447, src=(128, 17) tgt=(128, 14)
+Epoch 27: loss=0.0208, tf=0.30, time=26.6s
+  val_acc=90.12%
+  patience=1/5
+  batch 0/447, src=(128, 18) tgt=(128, 16)
+  batch 100/447, src=(128, 20) tgt=(128, 16)
+  batch 200/447, src=(128, 19) tgt=(128, 15)
+  batch 300/447, src=(128, 19) tgt=(128, 14)
+  batch 400/447, src=(128, 19) tgt=(128, 16)
+Epoch 28: loss=0.0201, tf=0.30, time=26.5s
+  val_acc=89.87%
+  patience=2/5
+  batch 0/447, src=(128, 19) tgt=(128, 16)
+  batch 100/447, src=(128, 19) tgt=(128, 16)
+  batch 200/447, src=(128, 22) tgt=(128, 16)
+  batch 300/447, src=(128, 22) tgt=(128, 15)
+  batch 400/447, src=(128, 19) tgt=(128, 16)
+Epoch 29: loss=0.0194, tf=0.30, time=26.5s
+  val_acc=90.09%
+  patience=3/5
+  batch 0/447, src=(128, 16) tgt=(128, 14)
+  batch 100/447, src=(128, 20) tgt=(128, 14)
+  batch 200/447, src=(128, 16) tgt=(128, 15)
+  batch 300/447, src=(128, 20) tgt=(128, 15)
+  batch 400/447, src=(128, 19) tgt=(128, 17)
+Epoch 30: loss=0.0162, tf=0.30, time=26.7s
+  val_acc=90.10%
+  patience=4/5
+
+Loading best checkpoint for final test evaluation...
+Test accuracy: 89.08%
+
+Sample errors:
+  watt-jam: وت-جم -> وات٢
+  koroner: کورونير -> کورونر
+  sindaktili: سيندقتيلي -> سيندکتيلي
+  kelima: کليما -> کليم
+  sapersi: سڤيرسي -> سڤرسي
+  rahmatnya: رهمةڽ -> رهمتڽ
+  pantat: ڤنتت -> ڤانتت
+  maab: ماءب -> معب
+  khazanah-khazanah: خزانه٢ -> خزنه٢
+  terisytihar: ترايشتهار -> تراشتيهر
+  badar: بدر -> بادر
+  membangga-banggakan: ممبڠݢ-بڠݢکن -> ممبڠݢا-بڠݢاکن
+  epik: ايڤيک -> اڤيق
+  sezuriat: سذوريت -> سزوريت
+  perendangan: ڤرندڠن -> ڤراندڠن
+  ambeles: امبلس -> امبيليس
+  terbayan: تربيان -> ترباين
+  gigawatt: ݢيݢاوت -> ݢيݢاوات
+  perangkawan: ڤراڠکاون -> ڤرڠکاون
+  menjingkat-jingkat: منجيڠکت-جيڠکت -> منجيڠکيت-جيڠکت

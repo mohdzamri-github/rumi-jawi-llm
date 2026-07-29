@@ -1,0 +1,85 @@
+Drive already mounted at /content/drive; to attempt to forcibly remount, call drive.mount("/content/drive", force_remount=True).
+Drive mounted. Saving to: /content/drive/MyDrive/rumi-jawi-model
+============================================================
+RUMI → JAWI SEQ2SEQ TRAINING (FULL)
+============================================================
+Device: cuda
+PyTorch version: 2.11.0+cu128
+
+Total pairs loaded: 71448
+Rumi length: min=2, max=26, mean=8.6
+Jawi length: min=1, max=20, mean=6.5
+
+Rumi vocab size: 37
+Jawi vocab size: 49
+
+Train: 64303 | Test: 7145
+Train batches: 503 | Test batches: 56
+
+Total parameters: 3,081,010
+
+============================================================
+TRAINING
+============================================================
+Epoch  1/50 | Train: 0.6055 | Val: 0.1558 | Time: 26.8s
+  → Saved best model (val loss: 0.1558)
+Epoch  2/50 | Train: 0.1551 | Val: 0.1213 | Time: 26.1s
+  → Saved best model (val loss: 0.1213)
+Epoch  3/50 | Train: 0.1205 | Val: 0.0984 | Time: 26.0s
+  → Saved best model (val loss: 0.0984)
+Epoch  4/50 | Train: 0.1009 | Val: 0.0901 | Time: 26.0s
+  → Saved best model (val loss: 0.0901)
+Epoch  5/50 | Train: 0.0910 | Val: 0.0911 | Time: 26.1s
+Epoch  6/50 | Train: 0.0827 | Val: 0.0839 | Time: 26.1s
+  → Saved best model (val loss: 0.0839)
+Epoch  7/50 | Train: 0.0738 | Val: 0.0796 | Time: 26.1s
+  → Saved best model (val loss: 0.0796)
+Epoch  8/50 | Train: 0.0705 | Val: 0.0790 | Time: 26.2s
+  → Saved best model (val loss: 0.0790)
+Epoch  9/50 | Train: 0.0725 | Val: 0.0842 | Time: 26.3s
+Epoch 10/50 | Train: 0.0650 | Val: 0.0742 | Time: 26.0s
+  → Saved best model (val loss: 0.0742)
+Epoch 11/50 | Train: 0.0567 | Val: 0.0755 | Time: 26.1s
+Epoch 12/50 | Train: 0.0587 | Val: 0.0727 | Time: 26.0s
+  → Saved best model (val loss: 0.0727)
+Epoch 13/50 | Train: 0.0554 | Val: 0.0748 | Time: 26.2s
+Epoch 14/50 | Train: 0.0545 | Val: 0.0773 | Time: 26.1s
+Epoch 15/50 | Train: 0.0531 | Val: 0.0815 | Time: 26.2s
+Epoch 16/50 | Train: 0.0537 | Val: 0.0776 | Time: 26.3s
+Epoch 17/50 | Train: 0.0506 | Val: 0.0766 | Time: 26.1s
+
+Early stopping triggered after 17 epochs (no improvement for 5 epochs).
+
+Total training time: 445.7s (7.4 min)
+
+
+Training curve saved to: /content/drive/MyDrive/rumi-jawi-model/training_curve.png
+Loaded best model from epoch 12 (val loss: 0.0727)
+
+============================================================
+RUMI → JAWI TRANSLITERATION RESULTS
+============================================================
+
+--- Test set sample (20/7145 words) ---
+✓ 'cangkuk' → 'چاڠکوق' (true: 'چاڠکوق')
+✓ 'mengeras' → 'مڠرس' (true: 'مڠرس')
+✓ 'bobok' → 'بوبوق' (true: 'بوبوق')
+✓ 'bersahut' → 'برساهوت' (true: 'برساهوت')
+✓ 'mota' → 'موتا' (true: 'موتا')
+✓ 'buapak' → 'بواڤق' (true: 'بواڤق')
+✓ 'anginkan' → 'اڠينکن' (true: 'اڠينکن')
+✓ 'merenyai-renyai' → 'مرڽاي-رڽاي' (true: 'مرڽاي-رڽاي')
+✓ 'temut' → 'تموت' (true: 'تموت')
+✓ 'bercemabai' → 'برچماباي' (true: 'برچماباي')
+✓ 'gayem' → 'ݢايم' (true: 'ݢايم')
+✓ 'melatis' → 'ملاتيس' (true: 'ملاتيس')
+✓ 'bersembang' → 'برسيمبڠ' (true: 'برسيمبڠ')
+✗ 'kismet' → 'کيسميت' (true: 'قسمة')
+✗ 'bersungguh-sungguh' → 'برسوڠݢوه٢' (true: 'برسوڠݢوه-سوڠݢوه')
+✓ 'dikecek' → 'دکيچيق' (true: 'دکيچيق')
+✓ 'takuh' → 'تاکوه' (true: 'تاکوه')
+✓ 'paramasastera' → 'ڤاراماسسترا' (true: 'ڤاراماسسترا')
+✓ 'sinematograf' → 'سينيماتوݢرف' (true: 'سينيماتوݢرف')
+✓ 'kresol' → 'کريسول' (true: 'کريسول')
+
+Test accuracy: 6220/7145 = 87.1%

@@ -1,0 +1,53 @@
+Drive already mounted at /content/drive; to attempt to forcibly remount, call drive.mount("/content/drive", force_remount=True).
+Drive mounted. Using: /content/drive/MyDrive/rumi-jawi-model
+============================================================
+FIND PREDICTION MISTAKES (COLAB)
+============================================================
+Device: cuda
+
+Loading checkpoint: /content/drive/MyDrive/rumi-jawi-model/best_model.pt
+Model loaded. Epoch 12, val loss: 0.0727
+
+Dataset: 71448 total pairs (from /content/drive/MyDrive/rumi-jawi-model/rumi-jawi-unicode.csv)
+Running inference on all 71448 words (batch_size=256)...
+  256/71448 words processed...
+  13056/71448 words processed...
+  25856/71448 words processed...
+  38656/71448 words processed...
+  51456/71448 words processed...
+  64256/71448 words processed...
+
+============================================================
+RESULTS
+============================================================
+Total words:     71448
+Correct:         65606
+Mistakes:        5842
+Accuracy:        91.82%
+Error rate:      8.18%
+
+First 20 mistakes:
+  'aba-daba' → predicted: 'اب٢' | true: 'اب-داب'
+  'abad' → predicted: 'ابد' | true: 'ابعد'
+  'abad' → predicted: 'ابد' | true: 'ابعاض'
+  'abadi' → predicted: 'ابدي' | true: 'ابادي'
+  'keabadian' → predicted: 'کعبادين' | true: 'کابادين'
+  'pengabadian' → predicted: 'ڤڠبادين' | true: 'ڤڠابادين'
+  'terabadi' → predicted: 'ترعبدي' | true: 'ترابادي'
+  'abadiat' → predicted: 'عبدية' | true: 'ابدية'
+  'abdal' → predicted: 'ابدل' | true: 'ابدال'
+  'abdas' → predicted: 'ابداس' | true: 'ابدس'
+  'berabdas' → predicted: 'برعبدس' | true: 'برابدس'
+  'abiad' → predicted: 'عبيد' | true: 'ابيض'
+  'abidin' → predicted: 'عبيدين' | true: 'عابدين'
+  'abiogenesis' → predicted: 'ابيوݢينيسيس' | true: 'ابيوݢينسيس'
+  'pengabjadan' → predicted: 'ڤڠبجادن' | true: 'ڤڠبجدن'
+  'abonemen' → predicted: 'ابونمن' | true: 'ابونمين'
+  'berabonemen' → predicted: 'برابونمن' | true: 'برابونمين'
+  'abrar' → predicted: 'ابر' | true: 'ابرار'
+  'abuya' → predicted: 'ابويا' | true: 'ابوي'
+  'abyad' → predicted: 'ابيد' | true: 'ابيض'
+
+Saved 5842 mistakes to: /content/drive/MyDrive/rumi-jawi-model/mistakes.csv
+
+
